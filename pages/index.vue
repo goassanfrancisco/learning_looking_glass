@@ -19,8 +19,13 @@
 </template>
 
 <script>
+import GridItem from "~/components/GridItem";
+
 export default {
   name: 'IndexPage',
+  components: [
+    GridItem
+  ]
 }
 </script>
 
