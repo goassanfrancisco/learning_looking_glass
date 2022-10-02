@@ -1,6 +1,6 @@
 <template>
   <div class="flex justify-center cursor-pointer">
-    <a type="button" :href="href" class="flex py-4 px-8 bg-blue-500 text-white rounded-lg">
+    <a type="button" href="../../index.html" class="flex py-4 px-8 bg-blue-500 text-white rounded-lg hover:bg-blue-400">
       <slot></slot>
     </a>
   </div>
@@ -8,11 +8,6 @@
 
 <script>
 export default {
-  name: 'ButtonLink',
-  props: {
-    href: {
-      type: String
-    }
-  }
+  name: 'ButtonLink'
 }
 </script>

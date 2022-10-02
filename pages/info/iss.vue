@@ -6,7 +6,7 @@
 
     <heading tag="h2">Historia</heading>
 
-    <article-item image="/img/iss1.png" caption="Fig .1: Imagen de un primer diseño de la Estación Espacial Internacional">
+    <article-item image="img/iss1.png" caption="Fig .1: Imagen de un primer diseño de la Estación Espacial Internacional">
       <paragraph>La actual "Estación Espacial Internacional" (ISS de sus siglas en inglés) nació del programa espacial "Freedom" desarrollado por EEUU. En 1984, en su mensaje sobre el estado de la nación, el presidente Ronald Reagan estableció, oficialmente, la intención de desarrollar una estación orbital permanente, que después se conocería como Estación Espacial Freedom.</paragraph>
 
       <paragraph>Se invitó a países como Canadá, Europa y Japón a unirse a este proyecto y los acuerdos llegaron con la Agencia Espacial Canadiense (CSA) y la Agencia Espacial Europea (ESA) en septiembre de 1988, y con el gobierno de Japón (GOJ) en marzo de 1989. Sin embargo, en respuesta a sucesivas restricciones presupuestarias y protestas sobre una estructura administrativa inmanejable, la administración de la presidencia y el administrador de la NASA Dan Goldin, pidieron un rediseño de la estación en un plazo comprendido entre primavera y verano de 1993.</paragraph>
@@ -21,13 +21,13 @@
 
     </article-item>
 
-    <article-item image="/img/iss2.png" caption="Fig .2: Imagen del módulo ruso Zarya" direction="reversed">
+    <article-item image="img/iss2.png" caption="Fig .2: Imagen del módulo ruso Zarya" direction="reversed">
       <paragraph>El 20 de noviembre de 1998, un cohete ruso Protón colocó en órbita el primer módulo de la futura ISS, el módulo ruso Zarya, diseñado para dotar a la Estación de la energía y propulsión iniciales. Poco después se le unió el Nodo 1 (Unity).</paragraph>
 
       <paragraph>Otros módulos vinieron después y la primera tripulación permanente llegó en el año 2000.</paragraph>
     </article-item>
 
-    <article-item image="/img/iss3.png" caption="Fig .3: Imagen de la Estación Espacial Internacional">
+    <article-item image="img/iss3.png" caption="Fig .3: Imagen de la Estación Espacial Internacional">
       <heading tag="h2">La Ciudad Espacial</heading>
 
       <heading tag="h3">Ubicación</heading>
@@ -48,7 +48,7 @@
 
     </article-item>
 
-   <article-item image="/img/iss4.png" caption="Fig .4: Uno de los brazos de la Estación Espacial Internacional" direction="reversed">
+   <article-item image="img/iss4.png" caption="Fig .4: Uno de los brazos de la Estación Espacial Internacional" direction="reversed">
      <heading tag="h3">Protección</heading>
 
      <paragraph>El exterior de la Estación Espacial cuenta con protección especial contra pequeñas colisiones de objetos espaciales, como micrometeoritos y desechos. Los micrometeoritos son pequeñas rocas que suelen tener un peso menor a un gramo y podrían parecer inofensivos; no obstante, por su velocidad dañarían severamente la estructura en caso de no contar con dicha protección. De igual forma, las ventanas también cuentan con protección contra colisiones al estar conformadas por 4 capas de vidrio que hacen un grosor de 3 cm (de borosilicato, un vidrio que se contrae y expande menos que el común al verse sometido a cambios de temperatura) y tienen además la protección adicional fabricadas con aluminio, nextel y kevlar.</paragraph>
@@ -60,7 +60,7 @@
      <heading tag="h2">La vida dentro de la Estación</heading>
    </article-item>
 
-    <article-item image="/img/iss5.png" caption="Fig .5: Astronautas trabajando en la Estación Espacial Internacional">
+    <article-item image="img/iss5.png" caption="Fig .5: Astronautas trabajando en la Estación Espacial Internacional">
       <paragraph>Los tripulantes aseguran que no es un trabajo fácil de principio a fin, ya que se corren muchos riesgos desde los viajes espaciales hasta las condiciones de salud tras un tiempo habitando en el espacio. Sin embargo, los turnos rotativos son los que ayudan a que los astronautas no sufran mayores riesgos.</paragraph>
 
       <paragraph>Por ejemplo, la falta de gravedad repercute en la musculatura, en el esqueleto y en el sistema circulatorio de una persona; razón por la que los tripulantes deben ejercitarse 2 horas diarias. Los ejercicios consisten en movimientos de piernas simulando a los que se hacen con la bicicleta; movimiento de brazos, peso muerto, sentadillas, entre otros. El equipo utilizado está totalmente adaptado a las condiciones espaciales, pues recordemos que el peso en el espacio no es el mismo al de la Tierra.</paragraph>

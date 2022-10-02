@@ -1,7 +1,7 @@
 <template>
   <page-container>
     <heading tag="h1">Nebulosa Anillo del Sur NGC 3132 (Vela)</heading>
-    <article-item image="/img/anillo_sur1.png" caption="Fig .1: Imagen de la Nebulosa Anillo del Sur obtenida a través de NIRCam del telescopio espacial James Webb">
+    <article-item image="img/anillo_sur1.png" caption="Fig .1: Imagen de la Nebulosa Anillo del Sur obtenida a través de NIRCam del telescopio espacial James Webb">
       <paragraph>Nebulosa planetaria NGC 3132 es una nebulosa planetaria en la constelación de Vela de magnitud aparente 9,87. Es conocida también con el nombre de Nebulosa del Anillo del Sur o Nebulosa de los Ocho Estallidos. Tiene un diámetro de cerca de medio año luz, y a una distancia de 2000 años luz de la Tierra es también una de las nebulosas planetarias más próximas. Los gases que se expanden desde el centro lo hacen a una velocidad de 15 km/s.</paragraph>
 
       <paragraph>La estrella brillante en el centro de NGC 3132, aunque destaca cuando se ve con el telescopio James Webb en luz infrarroja cercana, desempeña un papel secundario en el esculpido de la nebulosa circundante. Una segunda estrella, apenas visible en la parte inferior izquierda a lo largo de uno de los picos de difracción de la estrella brillante, es la fuente de la nebulosa. Ha expulsado al menos ocho capas de gas y polvo durante miles de años.</paragraph>
@@ -19,7 +19,7 @@
       <paragraph>Busque la línea brillante en ángulo en la parte superior izquierda. No es la luz de las estrellas, es una galaxia lejana vista de canto. Espirales distantes, de muchas formas y colores, también salpican la escena.</paragraph>
     </article-item>
 
-    <article-item image="/img/anillo_sur2.png" caption="Fig .2: Imagen de la Nebulosa Anillo del Sur obtenida a través de MIRI del telescopio espacial James Webb" direction="reversed">
+    <article-item image="img/anillo_sur2.png" caption="Fig .2: Imagen de la Nebulosa Anillo del Sur obtenida a través de MIRI del telescopio espacial James Webb" direction="reversed">
       <paragraph>El Telescopio James Webb de NASA/ESA/CSA ha revelado por primera vez la capa de polvo alrededor de la segunda estrella, que se muestra en rojo a la izquierda, en el centro de la Nebulosa del Anillo Sur. Es una estrella enana blanca caliente y densa.</paragraph>
 
       <paragraph>A medida que se transformaba en una enana blanca, la estrella expulsaba masa periódicamente: las capas de material que ves aquí. Como si repitiera, se contrajo, se calentó y luego, incapaz de expulsar más material, pulsó.</paragraph>

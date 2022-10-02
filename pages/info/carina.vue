@@ -2,7 +2,7 @@
   <page-container>
     <heading tag="h1">Nebulosa de Eta Carinae</heading>
 
-    <article-item image="/img/anillo_sur1.png" caption="Fig .1: Imagen de la Nebulosa del Homúnculo de Eta Carinae obtenida por el Telescopio Espacial Hubble">
+    <article-item image="img/anillo_sur1.png" caption="Fig .1: Imagen de la Nebulosa del Homúnculo de Eta Carinae obtenida por el Telescopio Espacial Hubble">
       <paragraph>La nebulosa de la Quilla, también llamada nebulosa de Carina, nebulosa de Eta Carinae o NGC 3372, es una gran nebulosa de emisión que rodea varios cúmulos abiertos de estrellas. Entre estas estrellas se encuentran Eta Carinae y HD 93129A, dos de las estrellas más masivas y más luminosas en la Vía Láctea. La nebulosa se encuentra a una distancia estimada de 6.500 a 10.000 aL (años luz) de la Tierra y tiene un radio de 230 aL Se encuentra localizada en la constelación de la Quilla (Carina). </paragraph>
 
       <paragraph>La nebulosa de la Quilla es una de las más extensas en el cielo. Aunque es aproximadamente cuatro veces más grande y más brillante que la famosa nebulosa de Orión, NGC 3372 es mucho menos conocida debido a su localización en el hemisferio sur. Fue descubierta en 1751 por Nicolas Louis de Lacaille desde el cabo de Buena Esperanza.</paragraph>
@@ -10,7 +10,7 @@
       <paragraph>Dentro de esta gran nebulosa se encuentra otra nebulosa, rodeando a la propia Eta Carinae. Este objeto es conocido como nebulosa del Homúnculo, la cual se cree que fue expulsada en 1841 en una gran explosión que hizo que Eta Carinae se convirtiera brevemente en la segunda estrella más brillante del firmamento.</paragraph>
     </article-item>
 
-    <article-item image="/img/carina2.png" caption="Fig .2: Imagen de la Nebulosa de Eta Cariane obtenida a través del telescopio espacial James Webb" direction="reversed">
+    <article-item image="img/carina2.png" caption="Fig .2: Imagen de la Nebulosa de Eta Cariane obtenida a través del telescopio espacial James Webb" direction="reversed">
       <paragraph>Eta Carinae es una estrella hipergigante altamente luminosa. Se calcula una masa entre 100 y 150 veces la masa del Sol y su luminosidad es cerca de cuatro millones de veces la de este.</paragraph>
 
       <paragraph>Este objeto es actualmente la estrella más masiva que se puede estudiar en gran detalle. Es posible que otras estrellas conocidas tengan masas mayores, así como mayores luminosidades. Sin embargo, los datos disponibles acerca de estas últimas son mucho menos confiables. Hasta el 2006, Eta Carinae era la estrella más luminosa confirmada, basada en datos tomados en un amplio rango de longitudes de onda. Las estrellas con una masa de 80 veces la masa solar producen más de un millón de veces la luz que produce el Sol. Estas estrellas son bastante raras —existen solamente unas pocas docenas en una galaxia del tamaño de la nuestra— y pueden tener finales desastrosos al acercarse al límite de Eddington, en el cual la presión generada hacia fuera debida a su radiación puede ser tan grande como para compensar la fuerza de gravedad. Las estrellas con más de 120 masas solares exceden el límite de Eddington teórico y su gravedad es apenas suficiente para mantener su radiación y su gas, lo cual resulta en una supernova o una hipernova.</paragraph>

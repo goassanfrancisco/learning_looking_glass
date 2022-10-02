@@ -27,25 +27,25 @@
     <div class="grid grid-cols-12 gap-4">
       <div class="col-span-12 sm:col-span-6 flex justify-center">
         <figure>
-          <img src="/img/espejos1.png" width="570px" />
+          <img src="img/espejos1.png" width="570px" />
           <figcaption><small>Fig .1: Imagen de las capas de oro de los espejos del Telescopio Espacial J. Webb</small></figcaption>
         </figure>
       </div>
       <div class="col-span-12 sm:col-span-6 flex justify-center">
         <figure>
-          <img src="/img/espejos2.png" width="570px" />
+          <img src="img/espejos2.png" width="570px" />
           <figcaption><small>Fig .2: Imagen del telescopio espacial James Webb con una de sus dos "alas" plegadas</small></figcaption>
         </figure>
       </div>
     </div>
 
-    <article-item image="/img/espejos3.png" caption="Fig .3: Designación de los espejos del telescopio espacial James Webb">
+    <article-item image="img/espejos3.png" caption="Fig .3: Designación de los espejos del telescopio espacial James Webb">
       <paragraph>Cada ala contiene tres segmentos del espejo primario. De esa forma se logro que el espejo quepa en la nave espacial de transporte.</paragraph>
       <paragraph>Cada uno de los espejos de Webb tiene una designación individual. A, B o C indica cuál de las tres prescripciones de los espejos es un segmento. Las fotos muestran la versión de vuelo de cada espejo del telescopio.</paragraph>
     </article-item>
 
 
-    <article-item image="/img/espejos4.png" caption="Fig .4: Espejo secundario siendo colocado">
+    <article-item image="img/espejos4.png" caption="Fig .4: Espejo secundario siendo colocado">
       <heading tag="h2">Espejo Secundario</heading>
       <paragraph>El espejo secundario se apoya en tres puntales que salen del gran espejo primario. Los puntales miden casi 7 metros de largo, pero son muy resistentes y ligeros. Son tubos huecos de material compuesto, con un grosor de unas 40 milésimas de pulgada (aproximadamente 1 milímetro). Están construidos para soportar las temperaturas extremas del espacio.</paragraph>
       <paragraph>A diferencia de los 18 segmentos primarios que componen el espejo más grande del telescopio Webb, el espejo secundario es perfectamente redondo. El espejo también es convexo, por lo que la superficie reflectante se abomba hacia una fuente de luz. Se parece mucho a los espejos curvados de las paredes cercanas a las salidas de los aparcamientos que permiten a los automovilistas ver alrededor de las esquinas. La calidad de la superficie del espejo secundario es tan buena que, a bajas temperaturas, la superficie final no se desvía del diseño más que en unas pocas millonésimas de milímetro, es decir, una diezmilésima parte del diámetro de un cabello humano.</paragraph>

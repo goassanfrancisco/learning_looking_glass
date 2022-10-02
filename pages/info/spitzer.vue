@@ -12,7 +12,7 @@
 
     <heading tag="h2">Tecnología del Telescopio</heading>
 
-    <article-item image="/img/spitzer1.png" caption="Fig .1: Imagen del Telescopio Espacial Spitzer">
+    <article-item image="img/spitzer1.png" caption="Fig .1: Imagen del Telescopio Espacial Spitzer">
       <heading tag="h3">Tamaño, Instrumentos y Vida Útil</heading>
 
       <paragraph>Spitzer va equipado con un telescopio reflector de 85 cm de diámetro. La estructura del Spitzer es octogonal en su base, donde están sus instrumentos, la electrónica y la aviónica. Todo esto se abastecía por la energía eléctrica generada a partir de los paneles solares, aunque su vida útil se veía limitada por la tasa de evaporación del helio líquido usado para su refrigeración (como otros telescopios espaciales de infrarrojos), agotándose el 15 de mayo de 2009.</paragraph>
@@ -40,7 +40,7 @@
 
     </div>
 
-    <article-item image="/img/spitzer2.png" caption="Fig .2: Imagen la Gran Nube de Magallanes tomada por ambos telescopios espaciales" direction="reversed">
+    <article-item image="img/spitzer2.png" caption="Fig .2: Imagen la Gran Nube de Magallanes tomada por ambos telescopios espaciales" direction="reversed">
       <heading tag="h2">Principales diferencias entre los telescopios Spitzer y James Webb</heading>
 
       <paragraph>La NASA ha compartido una nueva imagen que ha sido capturada por el Telescopio Espacial James Webb y, al lado del mismo grupo de estrellas capturadas por el Telescopio Espacial Spitzer, está claro cuánto mejor es la cámara MIRI de Webb.</paragraph>

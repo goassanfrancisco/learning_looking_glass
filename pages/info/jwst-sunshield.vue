@@ -22,7 +22,7 @@
       <div class="col-span-12 sm:col-span-6">
         <div  style="display:flex; flex-flow:row wrap; justify-content:center;">
           <figure>
-            <img src="/img/parasol1.png" width="570px" />
+            <img src="img/parasol1.png" width="570px" />
             <figcaption><small>Fig .1: Imagen de las capas del parasol del telescopio James Webb</small></figcaption>
           </figure>
         </div>
@@ -30,7 +30,7 @@
 
         <div  style="display:flex; flex-flow:row wrap; justify-content:center;">
           <figure>
-            <img src="/img/parasol2.png" width="570px" />
+            <img src="img/parasol2.png" width="570px" />
             <figcaption><small>Fig .2: Imagen de las capas del parasol del telescopio James Webb</small></figcaption>
           </figure>
         </div>

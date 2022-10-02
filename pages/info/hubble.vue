@@ -8,7 +8,7 @@
 
     <heading tag="h2">Tecnología del Telescopio</heading>
 
-    <article-item image="/img/hubble1.png" caption="Fig .1: Imagen del Telescopio Espacial Hubble">
+    <article-item image="img/hubble1.png" caption="Fig .1: Imagen del Telescopio Espacial Hubble">
       <paragraph>El telescopio tiene un peso total en torno a los 11.000 kilos. Es de forma cilíndrica, con una longitud de 13,2 m y un diámetro máximo de 4,2 metros.</paragraph>
 
       <paragraph>El telescopio Hubble es reflector y dispone de dos espejos, teniendo el principal 2,4 metros de diámetro. Para la exploración del cielo incorpora varios espectrómetros y tres cámaras, una de campo estrecho para fotografiar zonas pequeñas del espacio (de brillo débil por su lejanía), otra de campo ancho para obtener imágenes de planetas y una tercera infrarroja.</paragraph>

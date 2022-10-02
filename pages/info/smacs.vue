@@ -4,7 +4,7 @@
 
     <paragraph>Es un aglomerado de galaxias con una distancia aprox. de 5.120 millones de años luz, dentro de la constelación austral de Pez Volador. Es un trozo de cielo visible desde el hemisferio sur de la Tierra que a menudo es visitado por el Hubble y otros telescopios en busca del pasado profundo del Universo. Fue el objetivo de la primera imagen a todo color revelada por el telescopio espacial James Webb, obtenida con el NIRCam, con espectros incluidos, que muestran corrimiento al rojo que implican objetos de 13.100 millones de años de antigüedad.</paragraph>
 
-    <article-item image="/img/smacs1.png" caption="Fig .1: Webb Spectrum muestra la composición de una galaxia distante (NIRSpec)">
+    <article-item image="img/smacs1.png" caption="Fig .1: Webb Spectrum muestra la composición de una galaxia distante (NIRSpec)">
       <paragraph>Esta galaxia emitió su luz hace 13.100 millones de años.</paragraph>
 
       <paragraph>Fue capturado por la matriz de micro obturadores de Webb, parte de su espectrógrafo de infrarrojo cercano (NIRSpec). Este instrumento es tan sensible que puede observar la luz de galaxias individuales que existieron en el universo primitivo. Esto resultará transformador para la investigación. Las capacidades de Webb han permitido por primera vez a los científicos observar espectros de galaxias tan lejanas.</paragraph>
@@ -15,7 +15,7 @@
 
     </article-item>
 
-    <article-item image="/img/smacs2.png" caption="Fig .2: Imagen del cúmulo de galaxias SMACS 0723 obtenida a tevés del telescopio espacial James Webb" direction="reversed">
+    <article-item image="img/smacs2.png" caption="Fig .2: Imagen del cúmulo de galaxias SMACS 0723 obtenida a tevés del telescopio espacial James Webb" direction="reversed">
       <paragraph>Miles de galaxias inundan esta imagen en el infrarrojo cercano del cúmulo de galaxias SMACS 0723. Las imágenes de alta resolución del telescopio espacial James Webb combinadas con un efecto natural conocido como lentes gravitacionales hicieron posible esta imagen finamente detallada.</paragraph>
 
       <paragraph>Primero, concéntrese en las galaxias responsables de la formación de lentes: la galaxia elíptica blanca brillante en el centro de la imagen y las galaxias blancas más pequeñas en toda la imagen. Unidos por la gravedad en un cúmulo de galaxias, están desviando la luz de las galaxias que aparecen en las grandes distancias detrás de ellos. La masa combinada de las galaxias y la materia oscura actúa como un telescopio cósmico, creando imágenes ampliadas, distorsionadas y, a veces, reflejadas de galaxias individuales.</paragraph>
