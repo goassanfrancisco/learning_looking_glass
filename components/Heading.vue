@@ -1,0 +1,31 @@
+<template>
+  <component :is="tag" :class="tagClasses">
+    <slot></slot>
+  </component>
+</template>
+
+<script>
+const classes = {
+  'h1': 'text-2xl text-red-500 text-center font-bolder',
+  'h2': 'text-xl text-blue-500 font-bold'
+};
+export default {
+  name: 'HeadingComponent',
+  props: {
+    tag: {
+      type: String,
+      required: false,
+      default: 'h1'
+    }
+  },
+  computed: {
+    tagClasses() {
+      if (this.tag in classes) {
+        return classes[this.tag];
+      }
+      console.error('HeadingComponent: Invalid tag');
+      return classes.h1;
+    }
+  }
+}
+</script>

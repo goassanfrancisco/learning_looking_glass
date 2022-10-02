@@ -1,12 +1,12 @@
 <template>
   <page-container>
-    <h1>Telescopio Espacial Spitzer</h1>
+    <heading tag="h1">Telescopio Espacial Spitzer</heading>
 
     <p>El telescopio espacial Spitzer (SST por sus siglas en inglés) (conocido inicialmente como Instalación de Telescopio Infrarrojo Espacial o SIRTF de sus siglas en inglés), fue un observatorio espacial infrarrojo de la NASA.</p>
 
     <p>Fue diseñado para estudiar "lo frío, lo viejo y lo polvoriento", que son las características para cuya observación resulta idónea el infrarrojo, dado que se trata de ondas fuera del espectro visible.</p>
 
-    <h2>Historia</h2>
+    <heading tag="h2">Historia</heading>
 
     <p>Fue lanzado el 25 de agosto de 2003 desde el Centro Espacial Kennedy. Mantuvo una órbita heliocéntrica similar a la de la Tierra, pero que lo aleja de nuestro planeta a razón de unos 15 millones de kilómetros por año. El costo total de la misión se ha estimado en 670 millones de dólares. Entre los retos tecnológicos de esta misión se encontraba la realización del espejo principal de berilio.</p>
 
@@ -18,9 +18,9 @@
     </div>
     <br>
 
-    <h2>Tecnología del Telescopio</h2>
+    <heading tag="h2">Tecnología del Telescopio</heading>
 
-    <h3>Tamaño, Instrumentos y Vida Útil</h3>
+    <heading tag="h3">Tamaño, Instrumentos y Vida Útil</heading>
 
     <p>Spitzer va equipado con un telescopio reflector de 85 cm de diámetro. La estructura del Spitzer es octogonal en su base, donde están sus instrumentos, la electrónica y la aviónica. Todo esto se abastecía por la energía eléctrica generada a partir de los paneles solares, aunque su vida útil se veía limitada por la tasa de evaporación del helio líquido usado para su refrigeración (como otros telescopios espaciales de infrarrojos), agotándose el 15 de mayo de 2009.</p>
 
@@ -28,7 +28,7 @@
 
     <p> La vida útil del telescopio Spitzer viene limitada, como en otros telescopios infrarrojos espaciales, por la tasa de evaporación del helio líquido que se utiliza como refrigerante. Inicialmente se esperaba que el helio durase un mínimo de 2,5 años y un máximo de 5. El helio líquido se agotó el 15 de mayo de 2009, lo que supone una duración de más de 5,5 años.</p>
 
-    <h2>Descubrimientos y Jubilación</h2>
+    <heading tag="h2">Descubrimientos y Jubilación</heading>
 
     <p> Spitzer ha contribuido con descubrimientos sobre cometas, galaxias, estrellas (vivas y muriendo), elementos de planetas, núcleos activos y agujeros negros supe masivos y estrellas enanas, además de los exoplanetas. </p>
 
@@ -42,7 +42,7 @@
 
     <p>Tras más de 16 años estudiando el universo con luz infrarroja, revelando nuevas maravillas en nuestro sistema solar, nuestra galaxia e incluso más allá, la misión del Telescopio Espacial Spitzer de la NASA ha llegado a su fin el jueves 30 de enero de 2020 cesando todas las operaciones científicas “Este Gran Observatorio también planteó importantes y nuevas interrogantes, identificó objetos tentadores para estudios ulteriores, trazando el camino de las futuras investigaciones a seguir. Su inmenso impacto en la ciencia sin duda se extenderá más allá del fin de su misión”. afirmó Thomas Zurbuchen, Administrador Asociado de la Dirección de Misión Científica de la NASA en Washington.</p>
 
-    <h2>Principales diferencias entre los telescopios Spitzer y James Webb</h2>
+    <heading tag="h2">Principales diferencias entre los telescopios Spitzer y James Webb</heading>
 
     <p>La NASA ha compartido una nueva imagen que ha sido capturada por el Telescopio Espacial James Webb y, al lado del mismo grupo de estrellas capturadas por el Telescopio Espacial Spitzer, está claro cuánto mejor es la cámara MIRI de Webb.</p>
 
@@ -67,11 +67,13 @@
 
 <script>
 import PageContainer from "~/components/PageContainer";
+import Heading from "@/components/Heading";
 
 export default {
   name: 'AnilloSurPage',
-  components: [
-    PageContainer
-  ]
+  components: {
+    PageContainer,
+    Heading
+  }
 }
 </script>

@@ -1,6 +1,6 @@
 <template>
   <page-container>
-    <h1>Cúmulo de galaxias SMACS 0723 (Pez volador)</h1>
+    <heading tag="h1">Cúmulo de galaxias SMACS 0723 (Pez volador)</heading>
 
     <p>Es un aglomerado de galaxias con una distancia aprox. de 5.120 millones de años luz, dentro de la constelación austral de Pez Volador. Es un trozo de cielo visible desde el hemisferio sur de la Tierra que a menudo es visitado por el Hubble y otros telescopios en busca del pasado profundo del Universo. Fue el objetivo de la primera imagen a todo color revelada por el telescopio espacial James Webb, obtenida con el NIRCam, con espectros incluidos, que muestran corrimiento al rojo que implican objetos de 13.100 millones de años de antigüedad.</p>
 
@@ -47,11 +47,13 @@
 
 <script>
 import PageContainer from "~/components/PageContainer";
+import Heading from "@/components/Heading";
 
 export default {
   name: 'AnilloSurPage',
-  components: [
-    PageContainer
-  ]
+  components: {
+    PageContainer,
+    Heading
+  }
 }
 </script>

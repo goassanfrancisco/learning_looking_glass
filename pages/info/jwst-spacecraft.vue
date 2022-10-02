@@ -1,7 +1,7 @@
 <template>
   <page-container>
 
-    <h1>Telescopio Espacial James Webb (Spacecraft Bus)</h1>
+    <heading tag="h1">Telescopio Espacial James Webb (Spacecraft Bus)</heading>
 
     <p>El Spacecraft bus es el principal elemento de soporte del Telescopio Espacial James Webb (JWST). Alberga una multitud de componentes informáticos, de comunicación, de propulsión y estructurales. Los otros tres elementos del JWST son el elemento del telescopio óptico (OTE), el módulo de instrumentos científicos integrados (ISIM) y el parasol.</p>
 
@@ -47,11 +47,13 @@
 
 <script>
 import PageContainer from "~/components/PageContainer";
+import Heading from "@/components/Heading";
 
 export default {
   name: 'JwstSpacecraft',
-  components: [
-    PageContainer
-  ]
+  components: {
+    PageContainer,
+    Heading
+  }
 }
 </script>

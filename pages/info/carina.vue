@@ -1,6 +1,6 @@
 <template>
   <page-container>
-    <h1>Nebulosa de Eta Carinae</h1>
+    <heading tag="h1">Nebulosa de Eta Carinae</heading>
 
     <p>La nebulosa de la Quilla, también llamada nebulosa de Carina, nebulosa de Eta Carinae o NGC 3372, es una gran nebulosa de emisión que rodea varios cúmulos abiertos de estrellas. Entre estas estrellas se encuentran Eta Carinae y HD 93129A, dos de las estrellas más masivas y más luminosas en la Vía Láctea. La nebulosa se encuentra a una distancia estimada de 6.500 a 10.000 aL (años luz) de la Tierra y tiene un radio de 230 aL Se encuentra localizada en la constelación de la Quilla (Carina). </p>
 
@@ -47,11 +47,13 @@
 
 <script>
 import PageContainer from "~/components/PageContainer";
+import Heading from "@/components/Heading";
 
 export default {
   name: 'AnilloSurPage',
-  components: [
-    PageContainer
-  ]
+  components: {
+    PageContainer,
+    Heading
+  }
 }
 </script>

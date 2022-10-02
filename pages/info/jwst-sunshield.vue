@@ -1,6 +1,6 @@
 <template>
   <page-container>
-    <h1>Telescopio Espacial James Webb (Barrera solar -multilayer sunshield-)</h1>
+    <heading tag="h1">Telescopio Espacial James Webb (Barrera solar -multilayer sunshield-)</heading>
 
     <p>Para realizar observaciones en el espectro infrarrojo, el JWST debe mantenerse a una temperatura muy baja, aproximadamente por debajo de 50 K (-220 °C), de lo contrario, la radiación infrarroja del propio telescopio podría bloquear o sobrecargar sus instrumentos.</p>
 
@@ -39,11 +39,13 @@
 
 <script>
 import PageContainer from "~/components/PageContainer";
+import Heading from "@/components/Heading";
 
 export default {
   name: 'JwstSunshield',
-  components: [
-    PageContainer
-  ]
+  components: {
+    PageContainer,
+    Heading
+  }
 }
 </script>

@@ -1,6 +1,6 @@
 <template>
   <page-container>
-    <h1>Nebulosa Anillo del Sur NGC 3132 (Vela)</h1>
+    <heading tag="h1">Nebulosa Anillo del Sur NGC 3132 (Vela)</heading>
 
     <p>Nebulosa planetaria NGC 3132 es una nebulosa planetaria en la constelación de Vela de magnitud aparente 9,87. Es conocida también con el nombre de Nebulosa del Anillo del Sur o Nebulosa de los Ocho Estallidos. Tiene un diámetro de cerca de medio año luz, y a una distancia de 2000 años luz de la Tierra es también una de las nebulosas planetarias más próximas. Los gases que se expanden desde el centro lo hacen a una velocidad de 15 km/s.</p>
 
@@ -53,11 +53,13 @@
 
 <script>
 import PageContainer from "~/components/PageContainer";
+import Heading from "@/components/Heading";
 
 export default {
   name: 'AnilloSurPage',
-  components: [
-    PageContainer
-  ]
+  components: {
+    PageContainer,
+    Heading
+  }
 }
 </script>

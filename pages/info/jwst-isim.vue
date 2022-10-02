@@ -1,6 +1,6 @@
 <template>
   <page-container>
-    <h1>Telescopio Espacial James Webb (ISIM: Módulo de instrumentos científicos integrados -Integrated Science Instrument Module-)</h1>
+    <heading tag="h1">Telescopio Espacial James Webb (ISIM: Módulo de instrumentos científicos integrados -Integrated Science Instrument Module-)</heading>
 
     <p>El módulo de instrumentos científicos integrados (ISIM) es un componente del telescopio espacial James Webb (JWST). ISIM es el corazón del JWST y alberga la principal carga útil científica, que incluye cuatro instrumentos científicos y el sensor de guía fina.</p>
 
@@ -60,11 +60,13 @@
 
 <script>
 import PageContainer from "~/components/PageContainer";
+import Heading from "@/components/Heading";
 
 export default {
   name: 'JwstIsim',
-  components: [
-    PageContainer
-  ]
+  components: {
+    PageContainer,
+    Heading
+  }
 }
 </script>

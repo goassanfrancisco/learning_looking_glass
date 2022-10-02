@@ -1,12 +1,12 @@
 <template>
   <page-container>
-    <h1>Telescopio Espacial Hubble</h1>
+    <heading tag="h1">Telescopio Espacial Hubble</heading>
 
-    <h2>Historia</h2>
+    <heading tag="h2">Historia</heading>
 
     <p>El telescopio Hubble fue puesto en órbita el 24 de abril de 1990, en una misión conjunta entre la NASA y la Agencia Espacial Europea. Su misión se bautizó STS-31, y fue la culminación de más de 20 años de trabajo y más de 2 millones de dólares de inversión. Puesto que el Hubble está en una órbita próxima a la Tierra (593 km), su perspectiva en el espacio es muy similar a la de un telescopio de base en la Tierra. Sin embargo, la ausencia de los borrosos efectos de la atmósfera, le proporciona una visión mucho más clara del universo.</p>
 
-    <h2>Tecnología del Telescopio</h2>
+    <heading tag="h2">Tecnología del Telescopio</heading>
 
     <div  style="display:flex; flex-flow:row wrap; justify-content:center;">
       <figure>
@@ -24,7 +24,7 @@
 
     <p>Mediante dos paneles solares genera electricidad con la que alimenta las cámaras, los cuatro motores empleados para orientar y estabilizar el telescopio, y los equipos de refrigeración de la cámara infrarroja y el espectrómetro, que trabajan a -180ºC.</p>
 
-    <h2>Principales Descubrimientos</h2>
+    <heading tag="h2">Principales Descubrimientos</heading>
 
     <p>En 1994, descubrió claros indicios de la presencia de agujeros negros, en la galaxia M87 a 50 millones de años luz. Lo cual contribuyó a confirmar la existencia de dicho fenómeno astronómico. Además, permitió aclarar ideas sobre el nacimiento del Universo en una gran explosión, el Big Bang, ocurrida hace unos 13.700 millones de años.</p>
 
@@ -38,7 +38,7 @@
 
     <p>En 1995, sus fotografías de la nebulosa de Orión permitieron esclarecer la evolución de las nubes difusas que luego habrán de convertirse en estrellas, o sea, ayudaron a entender cómo nacen las estrellas.</p>
 
-    <h2>Principales diferencias entre los telescopios Hubble y James Webb</h2>
+    <heading tag="h2">Principales diferencias entre los telescopios Hubble y James Webb</heading>
 
     <p>De acuerdo con la Nasa, el telescopio James Webb no reemplaza al Hubble, sino que es un sucesor, cuyas capacidades "no son idénticas".</p>
 
@@ -46,15 +46,15 @@
 
     <p>Aunque se destacan algunas diferencias:</p>
 
-    <h3>Campo de Visión</h3>
+    <heading tag="h3">Campo de Visión</heading>
 
     <p>Una de las mayores diferencias entre ambos proyectos de la Nasa es el campo de visión, pues el del James Webb es significativamente mayor que el del Hubble. Asimismo, la resolución que maneja la cámara del más reciente telescopio espacial es superior al lanzado en 1990.</p>
 
-    <h3>Tamaño</h3>
+    <heading tag="h3">Tamaño</heading>
 
     <p>El nuevo telescopio James Webb es mucho más grande que el del Hubble. Esto se puede observar en el espejo primario del James Webb, el cual es casi el triple de grande que el que posee el Hubble. En total, el telescopio James Webb es casi el doble de grande que el telescopio Hubble que mide 13 metros de largo. Solo su base mide 22x12 metros. Eso sí, pesa la mitad que el Hubble.</p>
 
-    <h3>Órbita y observación</h3>
+    <heading tag="h3">Órbita y observación</heading>
 
     <p>El Hubble orbita la Tierra y el James Webb orbita el Sol, por lo que vuela hasta a 1.5 millones de kilómetros de nuestro planeta. Webb observará principalmente el universo en el espectro infrarrojo, mientras que el Hubble lo verá principalmente en longitudes de ondas ópticas y ultravioleta.</p>
 
@@ -69,11 +69,13 @@
 
 <script>
 import PageContainer from "~/components/PageContainer";
+import Heading from "@/components/Heading";
 
 export default {
   name: 'AnilloSurPage',
-  components: [
-    PageContainer
-  ]
+  components: {
+    PageContainer,
+    Heading
+  }
 }
 </script>
