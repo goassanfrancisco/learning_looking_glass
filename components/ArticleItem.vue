@@ -1,11 +1,11 @@
 <template>
   <article class="grid grid-cols-12 gap-4">
-    <div class="col-span-6 flex flex-col gap-4" :class="{
-      'order-2': direction === 'reversed'
+    <div class="col-span-12 sm:col-span-6 flex flex-col gap-4" :class="{
+      'sm:order-2': direction === 'reversed'
     }">
       <slot></slot>
     </div>
-    <div class="col-span-6 flex" :class="direction === 'normal' ? 'justify-end' : 'justify-start'">
+    <div class="col-span-12 sm:col-span-6 flex" :class="direction === 'normal' ? 'justify-end' : 'justify-start'">
       <figure>
         <img :src="image" />
         <figcaption v-if="caption">

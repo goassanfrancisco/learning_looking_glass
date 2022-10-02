@@ -3,7 +3,7 @@
     <heading tag="h1">Telescopio Espacial James Webb (Barrera solar -multilayer sunshield-)</heading>
 
     <div class="grid grid-cols-12 gap-4">
-      <div class="col-span-6 flex flex-col gap-4">
+      <div class="col-span-12 sm:col-span-6 flex flex-col gap-4">
         <paragraph>Para realizar observaciones en el espectro infrarrojo, el JWST debe mantenerse a una temperatura muy baja, aproximadamente por debajo de 50 K (-220 °C), de lo contrario, la radiación infrarroja del propio telescopio podría bloquear o sobrecargar sus instrumentos.</paragraph>
 
         <paragraph>Para evitarlo utiliza un gran parasol que bloquea la luz y el calor del Sol, la Tierra y la Luna, además, su posición cercana al punto de Lagrange Tierra-Sol L2 mantiene los tres cuerpos en el mismo lado de la nave espacial en todo momento.</paragraph>
@@ -19,7 +19,7 @@
         <paragraph>Las capas del parasol también están recubiertas de aluminio y silicio dopado por sus propiedades ópticas y su longevidad en el entorno espacial. El dopaje es un proceso en el que se mezcla una pequeña cantidad de otro material durante el proceso de recubrimiento de silicio para que el recubrimiento sea conductor de la electricidad. El revestimiento debe ser conductor de la electricidad para que las membranas puedan conectarse a tierra con el resto del JWST y no acumulen una carga eléctrica estática en su superficie. El silicio tiene una alta emisividad, lo que significa que emite la mayor parte del calor y la luz y actúa bloqueando el calor del sol para que no llegue a los instrumentos infrarrojos que estarán situados debajo. Además, las superficies de aluminio, muy reflectantes, rebotan la energía restante en los huecos de los bordes del parasol. (Dato curioso: el tono rosado de la parte inferior del parasol se debe en realidad a este revestimiento).</paragraph>
 
       </div>
-      <div class="col-span-6">
+      <div class="col-span-12 sm:col-span-6">
         <div  style="display:flex; flex-flow:row wrap; justify-content:center;">
           <figure>
             <img src="/img/parasol1.png" width="570px" />

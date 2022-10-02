@@ -25,13 +25,13 @@
     <paragraph>Algunos detalles técnicos: ¿Cómo se aplica el oro a los espejos? La respuesta es la deposición de vapor al vacío. La empresa Quantum Coating Incorporated realizó el recubrimiento de los espejos de nuestro telescopio. Básicamente, los espejos se introducen en una cámara de vacío y se vaporiza una pequeña cantidad de oro que se deposita en el espejo. Las zonas que no queremos recubrir (como la parte trasera y todos los mecanismos y demás) se enmascaran. El grosor típico del oro es de 1000 Angstroms (100 nanómetros). Encima del oro se deposita una fina capa de SiO2 amorfo (vidrio) para protegerlo de los arañazos en caso de manipulación o si las partículas llegan a la superficie y se desplazan (el oro es puro y muy blando).</paragraph>
 
     <div class="grid grid-cols-12 gap-4">
-      <div class="col-span-6 flex justify-center">
+      <div class="col-span-12 sm:col-span-6 flex justify-center">
         <figure>
           <img src="/img/espejos1.png" width="570px" />
           <figcaption><small>Fig .1: Imagen de las capas de oro de los espejos del Telescopio Espacial J. Webb</small></figcaption>
         </figure>
       </div>
-      <div class="col-span-6 flex justify-center">
+      <div class="col-span-12 sm:col-span-6 flex justify-center">
         <figure>
           <img src="/img/espejos2.png" width="570px" />
           <figcaption><small>Fig .2: Imagen del telescopio espacial James Webb con una de sus dos "alas" plegadas</small></figcaption>
