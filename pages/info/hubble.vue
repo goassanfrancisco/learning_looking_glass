@@ -8,21 +8,16 @@
 
     <heading tag="h2">Tecnología del Telescopio</heading>
 
-    <div  style="display:flex; flex-flow:row wrap; justify-content:center;">
-      <figure>
-        <img src="/img/hubble1.png" width="570px" />
-        <figcaption><small>Fig .1: Imagen del Telescopio Espacial Hubble</small></figcaption>
-      </figure>
-    </div>
-    <br />
+    <article-item image="/img/hubble1.png" caption="Fig .1: Imagen del Telescopio Espacial Hubble">
+      <paragraph>El telescopio tiene un peso total en torno a los 11.000 kilos. Es de forma cilíndrica, con una longitud de 13,2 m y un diámetro máximo de 4,2 metros.</paragraph>
 
-    <paragraph>El telescopio tiene un peso total en torno a los 11.000 kilos. Es de forma cilíndrica, con una longitud de 13,2 m y un diámetro máximo de 4,2 metros.</paragraph>
+      <paragraph>El telescopio Hubble es reflector y dispone de dos espejos, teniendo el principal 2,4 metros de diámetro. Para la exploración del cielo incorpora varios espectrómetros y tres cámaras, una de campo estrecho para fotografiar zonas pequeñas del espacio (de brillo débil por su lejanía), otra de campo ancho para obtener imágenes de planetas y una tercera infrarroja.</paragraph>
 
-    <paragraph>El telescopio Hubble es reflector y dispone de dos espejos, teniendo el principal 2,4 metros de diámetro. Para la exploración del cielo incorpora varios espectrómetros y tres cámaras, una de campo estrecho para fotografiar zonas pequeñas del espacio (de brillo débil por su lejanía), otra de campo ancho para obtener imágenes de planetas y una tercera infrarroja.</paragraph>
+      <paragraph>La calidad de imagen se vio gravemente afectada por un espejo principal indebidamente asentado, pero este problema fue superado por una misión de reparación en diciembre de 1993.</paragraph>
 
-    <paragraph>La calidad de imagen se vio gravemente afectada por un espejo principal indebidamente asentado, pero este problema fue superado por una misión de reparación en diciembre de 1993.</paragraph>
+      <paragraph>Mediante dos paneles solares genera electricidad con la que alimenta las cámaras, los cuatro motores empleados para orientar y estabilizar el telescopio, y los equipos de refrigeración de la cámara infrarroja y el espectrómetro, que trabajan a -180ºC.</paragraph>
 
-    <paragraph>Mediante dos paneles solares genera electricidad con la que alimenta las cámaras, los cuatro motores empleados para orientar y estabilizar el telescopio, y los equipos de refrigeración de la cámara infrarroja y el espectrómetro, que trabajan a -180ºC.</paragraph>
+    </article-item>
 
     <heading tag="h2">Principales Descubrimientos</heading>
 
@@ -71,13 +66,15 @@
 import PageContainer from "~/components/PageContainer";
 import Heading from "@/components/Heading";
 import Paragraph from "@/components/Paragraph";
+import ArticleItem from "@/components/ArticleItem";
 
 export default {
   name: 'AnilloSurPage',
   components: {
     PageContainer,
     Heading,
-    Paragraph
+    Paragraph,
+    ArticleItem
   }
 }
 </script>

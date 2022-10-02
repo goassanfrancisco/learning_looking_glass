@@ -24,52 +24,36 @@
 
     <paragraph>Algunos detalles técnicos: ¿Cómo se aplica el oro a los espejos? La respuesta es la deposición de vapor al vacío. La empresa Quantum Coating Incorporated realizó el recubrimiento de los espejos de nuestro telescopio. Básicamente, los espejos se introducen en una cámara de vacío y se vaporiza una pequeña cantidad de oro que se deposita en el espejo. Las zonas que no queremos recubrir (como la parte trasera y todos los mecanismos y demás) se enmascaran. El grosor típico del oro es de 1000 Angstroms (100 nanómetros). Encima del oro se deposita una fina capa de SiO2 amorfo (vidrio) para protegerlo de los arañazos en caso de manipulación o si las partículas llegan a la superficie y se desplazan (el oro es puro y muy blando).</paragraph>
 
-    <div  style="display:flex; flex-flow:row wrap; justify-content:center;">
-      <figure>
-        <img src="/img/espejos1.png" width="570px" />
-        <figcaption><small>Fig .1: Imagen de las capas de oro de los espejos del Telescopio Espacial J. Webb</small></figcaption>
-      </figure>
+    <div class="grid grid-cols-12 gap-4">
+      <div class="col-span-6 flex justify-center">
+        <figure>
+          <img src="/img/espejos1.png" width="570px" />
+          <figcaption><small>Fig .1: Imagen de las capas de oro de los espejos del Telescopio Espacial J. Webb</small></figcaption>
+        </figure>
+      </div>
+      <div class="col-span-6 flex justify-center">
+        <figure>
+          <img src="/img/espejos2.png" width="570px" />
+          <figcaption><small>Fig .2: Imagen del telescopio espacial James Webb con una de sus dos "alas" plegadas</small></figcaption>
+        </figure>
+      </div>
     </div>
-    <br>
 
-    <div  style="display:flex; flex-flow:row wrap; justify-content:center;">
-      <figure>
-        <img src="/img/espejos2.png" width="570px" />
-        <figcaption><small>Fig .2: Imagen del telescopio espacial James Webb con una de sus dos "alas" plegadas</small></figcaption>
-      </figure>
-    </div>
-    <br>
-
-    <paragraph>Cada ala contiene tres segmentos del espejo primario. De esa forma se logro que el espejo quepa en la nave espacial de transporte.</paragraph>
-
-    <div  style="display:flex; flex-flow:row wrap; justify-content:center;">
-      <figure>
-        <img src="/img/espejos3.png" width="570px" />
-        <figcaption><small>Fig .3: Designación de los espejos del telescopio espacial James Webb</small></figcaption>
-      </figure>
-    </div>
-    <br>
-
-    <paragraph>Cada uno de los espejos de Webb tiene una designación individual. A, B o C indica cuál de las tres prescripciones de los espejos es un segmento. Las fotos muestran la versión de vuelo de cada espejo del telescopio.</paragraph>
-
-    <heading tag="h2">Espejo Secundario</heading>
-
-    <paragraph>El espejo secundario se apoya en tres puntales que salen del gran espejo primario. Los puntales miden casi 7 metros de largo, pero son muy resistentes y ligeros. Son tubos huecos de material compuesto, con un grosor de unas 40 milésimas de pulgada (aproximadamente 1 milímetro). Están construidos para soportar las temperaturas extremas del espacio.</paragraph>
-
-    <paragraph>A diferencia de los 18 segmentos primarios que componen el espejo más grande del telescopio Webb, el espejo secundario es perfectamente redondo. El espejo también es convexo, por lo que la superficie reflectante se abomba hacia una fuente de luz. Se parece mucho a los espejos curvados de las paredes cercanas a las salidas de los aparcamientos que permiten a los automovilistas ver alrededor de las esquinas. La calidad de la superficie del espejo secundario es tan buena que, a bajas temperaturas, la superficie final no se desvía del diseño más que en unas pocas millonésimas de milímetro, es decir, una diezmilésima parte del diámetro de un cabello humano.</paragraph>
+    <article-item image="/img/espejos3.png" caption="Fig .3: Designación de los espejos del telescopio espacial James Webb">
+      <paragraph>Cada ala contiene tres segmentos del espejo primario. De esa forma se logro que el espejo quepa en la nave espacial de transporte.</paragraph>
+      <paragraph>Cada uno de los espejos de Webb tiene una designación individual. A, B o C indica cuál de las tres prescripciones de los espejos es un segmento. Las fotos muestran la versión de vuelo de cada espejo del telescopio.</paragraph>
+    </article-item>
 
 
-    <paragraph>El potente espejo primario del telescopio Webb está diseñado para recoger la débil luz de las primeras y más lejanas galaxias. El telescopio Webb tiene 21 espejos, 18 de los cuales son segmentos del espejo primario que funcionan juntos como un gran espejo primario de 6,5 metros. El espejo primario se completó cuando el 18º y último segmento se instaló el 4 de febrero de 2016 en la NASA Goddard.</paragraph>
+    <article-item image="/img/espejos4.png" caption="Fig .4: Espejo secundario siendo colocado">
+      <heading tag="h2">Espejo Secundario</heading>
+      <paragraph>El espejo secundario se apoya en tres puntales que salen del gran espejo primario. Los puntales miden casi 7 metros de largo, pero son muy resistentes y ligeros. Son tubos huecos de material compuesto, con un grosor de unas 40 milésimas de pulgada (aproximadamente 1 milímetro). Están construidos para soportar las temperaturas extremas del espacio.</paragraph>
+      <paragraph>A diferencia de los 18 segmentos primarios que componen el espejo más grande del telescopio Webb, el espejo secundario es perfectamente redondo. El espejo también es convexo, por lo que la superficie reflectante se abomba hacia una fuente de luz. Se parece mucho a los espejos curvados de las paredes cercanas a las salidas de los aparcamientos que permiten a los automovilistas ver alrededor de las esquinas. La calidad de la superficie del espejo secundario es tan buena que, a bajas temperaturas, la superficie final no se desvía del diseño más que en unas pocas millonésimas de milímetro, es decir, una diezmilésima parte del diámetro de un cabello humano.</paragraph>
+      <paragraph>El potente espejo primario del telescopio Webb está diseñado para recoger la débil luz de las primeras y más lejanas galaxias. El telescopio Webb tiene 21 espejos, 18 de los cuales son segmentos del espejo primario que funcionan juntos como un gran espejo primario de 6,5 metros. El espejo primario se completó cuando el 18º y último segmento se instaló el 4 de febrero de 2016 en la NASA Goddard.</paragraph>
 
-    <paragraph>El espejo secundario y todos los segmentos del espejo están hechos de berilio, que fue seleccionado por su rigidez, peso ligero y estabilidad a temperaturas criogénicas. El berilio desnudo no es muy reflectante de la luz infrarroja cercana, por lo que cada espejo está recubierto con unas 0,12 onzas de oro para que pueda reflejar eficazmente la luz infrarroja (que es lo que ven las cámaras del telescopio Webb).</paragraph>
+      <paragraph>El espejo secundario y todos los segmentos del espejo están hechos de berilio, que fue seleccionado por su rigidez, peso ligero y estabilidad a temperaturas criogénicas. El berilio desnudo no es muy reflectante de la luz infrarroja cercana, por lo que cada espejo está recubierto con unas 0,12 onzas de oro para que pueda reflejar eficazmente la luz infrarroja (que es lo que ven las cámaras del telescopio Webb).</paragraph>
 
-    <div  style="display:flex; flex-flow:row wrap; justify-content:center;">
-      <figure>
-        <img src="i/mg/espejos4.png" width="570px" />
-        <figcaption><small>Fig .4: Espejo secundario siendo colocado</small></figcaption>
-      </figure>
-    </div>
-    <br>
+    </article-item>
 
     <heading tag="h2">Diseño óptico</heading>
 
@@ -86,12 +70,15 @@
 import PageContainer from "~/components/PageContainer";
 import Heading from "@/components/Heading";
 import Paragraph from "@/components/Paragraph";
+import ArticleItem from "@/components/ArticleItem";
+
 export default {
   name: 'JwstEspejos',
   components: {
     PageContainer,
     Heading,
-    Paragraph
+    Paragraph,
+    ArticleItem
   }
 }
 </script>
