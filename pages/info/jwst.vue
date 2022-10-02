@@ -3,9 +3,9 @@
     <heading tag="h1" class="text-2xl text-red-500 text-center font-bolder">Conociendo el Telescopio Espacial James Webb</heading>
     <heading tag="h2" class="text-xl text-blue-500 font-bold"> Información </heading>
 
-    <p> El 25 de diciembre de 2021 se lanzó el Telescopio Espacial James Webb (JWST), el telescopio de ciencia espacial más grande, poderoso y complejo jamás construido. Su desarrollo estuvo a cargo de 14 países, cooperando conjuntamente la Agencia Espacial Europea, la Agencia Espacial Canadiense y la NASA.</p>
+    <paragraph> El 25 de diciembre de 2021 se lanzó el Telescopio Espacial James Webb (JWST), el telescopio de ciencia espacial más grande, poderoso y complejo jamás construido. Su desarrollo estuvo a cargo de 14 países, cooperando conjuntamente la Agencia Espacial Europea, la Agencia Espacial Canadiense y la NASA.</paragraph>
 
-    <p>  Encuentra los objetos en la imagen para conocer más acerca del JWST y algunos de los objetos que ya fueron captados por el mismo. Para acceder a la información se debe hacer click en cada uno de ellos.</p>
+    <paragraph>  Encuentra los objetos en la imagen para conocer más acerca del JWST y algunos de los objetos que ya fueron captados por el mismo. Para acceder a la información se debe hacer click en cada uno de ellos.</paragraph>
 
     <div  style="display:flex; flex-flow:row wrap; justify-content:center;">
       <div id="contenido" class="contenido" style="position: relative;">
@@ -48,12 +48,14 @@
 <script>
 import PageContainer from "~/components/PageContainer";
 import Heading from "@/components/Heading";
+import Paragraph from "@/components/Paragraph";
 
 export default {
   name: 'JWSTPage',
   components: {
     PageContainer,
-    Heading
+    Heading,
+    Paragraph
   }
 }
 </script>
