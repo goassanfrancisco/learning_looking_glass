@@ -34,8 +34,9 @@
 
     </article-item>
 
-    <div id="boton">
-      <button class="boton-personalizado" onclick="window.history.back();">Volver</button></div>
+    <button-link>
+      Volver
+    </button-link>
   </page-container>
 </template>
 
@@ -44,6 +45,7 @@ import PageContainer from "~/components/PageContainer";
 import Heading from "@/components/Heading";
 import Paragraph from "@/components/Paragraph";
 import ArticleItem from "@/components/ArticleItem";
+import ButtonLink from "@/components/ButtonLink";
 
 export default {
   name: 'AnilloSurPage',
@@ -51,7 +53,8 @@ export default {
     PageContainer,
     Heading,
     Paragraph,
-    ArticleItem
+    ArticleItem,
+    ButtonLink
   }
 }
 </script>

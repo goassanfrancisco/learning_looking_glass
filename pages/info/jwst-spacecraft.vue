@@ -32,9 +32,9 @@
       <paragraph>Además, tiene dos rastreadores de estrellas, seis ruedas de reacción y los sistemas de propulsión (tanque de combustible y propulsores). Las dos tareas principales son apuntar el telescopio y realizar el mantenimiento de la estación para su órbita estable en el punto de Lagrange L2.</paragraph>
     </ArticleItem>
 
-
-    <div id="boton">
-      <button class="boton-personalizado" onclick="window.history.back();">Volver</button></div>
+    <button-link>
+      Volver
+    </button-link>
   </page-container>
 </template>
 
@@ -43,6 +43,7 @@ import PageContainer from "~/components/PageContainer";
 import Heading from "@/components/Heading";
 import Paragraph from "@/components/Paragraph";
 import ArticleItem from "@/components/ArticleItem";
+import ButtonLink from "@/components/ButtonLink";
 
 export default {
   name: 'JwstSpacecraft',
@@ -50,7 +51,8 @@ export default {
     PageContainer,
     Heading,
     Paragraph,
-    ArticleItem
+    ArticleItem,
+    ButtonLink
   }
 }
 </script>

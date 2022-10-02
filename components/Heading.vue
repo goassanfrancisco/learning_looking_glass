@@ -6,7 +6,7 @@
 
 <script>
 const classes = {
-  'h1': 'pt-6 text-2xl text-red-500 text-center font-bolder',
+  'h1': 'text-2xl text-red-500 text-center font-bolder',
   'h2': 'text-xl text-blue-500 font-bold',
   'h3': 'text-lg text-blue-500 font-medium'
 };

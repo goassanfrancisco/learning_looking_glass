@@ -33,8 +33,9 @@
       <paragraph>Hay un lado que está hecho de aluminio y los otros lados son compuestos. Está envuelto en varias capas de aislamiento. Algunas de las características para la gestión térmica incluyen un radiador y deflectores.</paragraph>
     </article-item>
 
-    <div id="boton">
-      <button class="boton-personalizado" onclick="window.history.back();">Volver</button></div>
+    <button-link>
+      Volver
+    </button-link>
   </page-container>
 </template>
 
@@ -43,6 +44,7 @@ import PageContainer from "~/components/PageContainer";
 import Heading from "@/components/Heading";
 import Paragraph from "@/components/Paragraph";
 import ArticleItem from "@/components/ArticleItem";
+import ButtonLink from "@/components/ButtonLink";
 
 export default {
   name: 'JwstIsim',
@@ -50,7 +52,8 @@ export default {
     PageContainer,
     Heading,
     Paragraph,
-    ArticleItem
+    ArticleItem,
+    ButtonLink
   }
 }
 </script>

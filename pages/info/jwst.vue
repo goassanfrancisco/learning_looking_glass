@@ -38,10 +38,9 @@
         <a class="btn-info" href="#" data-toggle="popover" style="position: absolute; top:35em; right:7em;" title="Telescopio Espacial James Webb (ISIM)" data-content="El módulo de instrumentos científicos integrados (ISIM) es el corazón del JWST y alberga la principal carga útil científica.<br><a href='isim.html'><small>Ver más</small></a>"><img src="/img/boton.png" height ="20px" width="20px"></a>
       </div>
     </div>
-    <br />
-    <div class="flex justify-center">
-      <a class="px-8 py-4 bg-blue-500 text-white rounded-xl" type="button" href="../juegos.html">Volver</a>
-    </div>
+    <button-link>
+      Volver
+    </button-link>
   </page-container>
 </template>
 
@@ -49,13 +48,15 @@
 import PageContainer from "~/components/PageContainer";
 import Heading from "@/components/Heading";
 import Paragraph from "@/components/Paragraph";
+import ButtonLink from "@/components/ButtonLink";
 
 export default {
   name: 'JWSTPage',
   components: {
     PageContainer,
     Heading,
-    Paragraph
+    Paragraph,
+    ButtonLink
   }
 }
 </script>

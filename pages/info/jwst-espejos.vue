@@ -61,8 +61,9 @@
 
     <paragraph>El último segmento del espejo primario fue instalado el 3 de febrero de 2016 y el espejo secundario fue instalado el 3 de marzo de 2016</paragraph>
 
-    <div id="boton">
-      <button class="boton-personalizado" onclick="window.history.back();">Volver</button></div>
+    <button-link>
+      Volver
+    </button-link>
   </page-container>
 </template>
 
@@ -71,6 +72,7 @@ import PageContainer from "~/components/PageContainer";
 import Heading from "@/components/Heading";
 import Paragraph from "@/components/Paragraph";
 import ArticleItem from "@/components/ArticleItem";
+import ButtonLink from "@/components/ButtonLink";
 
 export default {
   name: 'JwstEspejos',
@@ -78,7 +80,8 @@ export default {
     PageContainer,
     Heading,
     Paragraph,
-    ArticleItem
+    ArticleItem,
+    ButtonLink
   }
 }
 </script>

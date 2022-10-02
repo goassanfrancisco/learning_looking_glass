@@ -37,8 +37,9 @@
       </div>
     </div>
 
-    <div id="boton">
-      <button class="boton-personalizado" onclick="window.history.back();">Volver</button></div>
+    <button-link>
+      Volver
+    </button-link>
   </page-container>
 </template>
 
@@ -46,13 +47,15 @@
 import PageContainer from "~/components/PageContainer";
 import Heading from "@/components/Heading";
 import Paragraph from "@/components/Paragraph";
+import ButtonLink from "@/components/ButtonLink";
 
 export default {
   name: 'JwstSunshield',
   components: {
     PageContainer,
     Heading,
-    Paragraph
+    Paragraph,
+    ButtonLink
   }
 }
 </script>

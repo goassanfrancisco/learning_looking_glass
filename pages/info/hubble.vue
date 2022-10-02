@@ -57,8 +57,9 @@
 
     <paragraph>Que el James Webb observe el universo con espectro infrarrojo le permite revelar los estados fríos de la materia, así como objetos sólidos en el espacio, lo que le ayuda a captar mejores imágenes a detalle del universo.</paragraph>
 
-    <div id="boton">
-      <button class="boton-personalizado" onclick="window.history.back();">Volver</button></div>
+    <button-link>
+      Volver
+    </button-link>
   </page-container>
 </template>
 
@@ -67,6 +68,7 @@ import PageContainer from "~/components/PageContainer";
 import Heading from "@/components/Heading";
 import Paragraph from "@/components/Paragraph";
 import ArticleItem from "@/components/ArticleItem";
+import ButtonLink from "@/components/ButtonLink";
 
 export default {
   name: 'AnilloSurPage',
@@ -74,7 +76,8 @@ export default {
     PageContainer,
     Heading,
     Paragraph,
-    ArticleItem
+    ArticleItem,
+    ButtonLink
   }
 }
 </script>
