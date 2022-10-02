@@ -2,7 +2,7 @@
   <page-container>
     <heading tag="h1">Nebulosa de Eta Carinae</heading>
 
-    <article-item image="img/anillo_sur1.png" caption="Fig .1: Imagen de la Nebulosa del Homúnculo de Eta Carinae obtenida por el Telescopio Espacial Hubble">
+    <article-item image="img/carina1.png" caption="Fig .1: Imagen de la Nebulosa del Homúnculo de Eta Carinae obtenida por el Telescopio Espacial Hubble">
       <paragraph>La nebulosa de la Quilla, también llamada nebulosa de Carina, nebulosa de Eta Carinae o NGC 3372, es una gran nebulosa de emisión que rodea varios cúmulos abiertos de estrellas. Entre estas estrellas se encuentran Eta Carinae y HD 93129A, dos de las estrellas más masivas y más luminosas en la Vía Láctea. La nebulosa se encuentra a una distancia estimada de 6.500 a 10.000 aL (años luz) de la Tierra y tiene un radio de 230 aL Se encuentra localizada en la constelación de la Quilla (Carina). </paragraph>
 
       <paragraph>La nebulosa de la Quilla es una de las más extensas en el cielo. Aunque es aproximadamente cuatro veces más grande y más brillante que la famosa nebulosa de Orión, NGC 3372 es mucho menos conocida debido a su localización en el hemisferio sur. Fue descubierta en 1751 por Nicolas Louis de Lacaille desde el cabo de Buena Esperanza.</paragraph>

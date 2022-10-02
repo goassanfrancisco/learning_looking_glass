@@ -1,0 +1,993 @@
+﻿[
+    {
+        "categoria": "Eta Carinae",
+        "pregunta": "La nebulosa Eta Carinae también se llama:",
+        "respuesta": "de la Quilla.",
+        "incorrecta1": "del Cisne.",
+        "incorrecta2": "Orión.",
+        "incorrecta3": "del Cangrejo.\r"
+    },
+    {
+        "categoria": "Eta Carinae",
+        "pregunta": "La nebulosa Eta Carinae se indentifica como:",
+        "respuesta": "NGC 3372",
+        "incorrecta1": "MNT 4457",
+        "incorrecta2": "NKC 2371",
+        "incorrecta3": "MFA 4367\r"
+    },
+    {
+        "categoria": "Eta Carinae",
+        "pregunta": "La nebulosa Eta Carinae es una nebulosa de:",
+        "respuesta": "de emisión.",
+        "incorrecta1": "de reflexión.",
+        "incorrecta2": "planetaria.",
+        "incorrecta3": "de absorción.\r"
+    },
+    {
+        "categoria": "Eta Carinae",
+        "pregunta": "La nebulosa Eta Carinae es más grande y más brillante que la nebulosa:",
+        "respuesta": "de Orión.",
+        "incorrecta1": "del Águila.",
+        "incorrecta2": "de la Laguna.",
+        "incorrecta3": "Cabeza de Caballo.\r"
+    },
+    {
+        "categoria": "Eta Carinae",
+        "pregunta": "Rodeando la nebulosa Eta Carinae se encuentra otra nebulosa:",
+        "respuesta": "del Homúnculo.",
+        "incorrecta1": "del Anillo.",
+        "incorrecta2": "Ojo de Gato.",
+        "incorrecta3": "Mariposa.\r"
+    },
+    {
+        "categoria": "Eta Carinae",
+        "pregunta": "En la nebulosa Eta Carinae se encuentra la estrella del mismo nombre. Es una estrella:",
+        "respuesta": "hipergigante luminosa.",
+        "incorrecta1": "mediana.",
+        "incorrecta2": "gigante roja.",
+        "incorrecta3": "azul.\r"
+    },
+    {
+        "categoria": "Eta Carinae",
+        "pregunta": "Esta imagen de la Nebulosa de Eta Carinae fue capturada por:",
+        "respuesta": "El telescopio Hubble.",
+        "incorrecta1": "La Estación Espacial Internacional.",
+        "incorrecta2": "El telescopio Monte Wilson.",
+        "incorrecta3": "Telescopio James Webb.\r",
+        "imagen": "https://apod.nasa.gov/apod/image/0806/etacar2_hst_big.jpg",
+	"objectFit": "cover"
+    },
+    {
+        "categoria": "Eta Carinae",
+        "pregunta": "De las estrellas con más de 120 veces la masa del Sol resulta:",
+        "respuesta": "una supernova o hipernova.",
+        "incorrecta1": "una enana blanca.",
+        "incorrecta2": "una gigante roja.",
+        "incorrecta3": "una estrella de neutrones.\r"
+    },
+    {
+        "categoria": "Eta Carinae",
+        "pregunta": "Una porción de la nebulosa Eta Carinae es conocida como nebulosa de:",
+        "respuesta": "Keyhole.",
+        "incorrecta1": "del Anillo.",
+        "incorrecta2": "Araña roja.",
+        "incorrecta3": "Helix.\r"
+    },
+    {
+        "categoria": "Eta Carinae",
+        "pregunta": "En la foto de la nebulosa capturada por J. Webb a que se asemeja el borde de la joven región de formación estelar NGC 3324:",
+        "respuesta": "montañas.",
+        "incorrecta1": "lago.",
+        "incorrecta2": "desierto.",
+        "incorrecta3": "mar.‎\r"
+    },
+    {
+        "categoria": "Eta Carinae",
+        "pregunta": "Cosmic Cliffs, es una región de NGC 3324 y está a una distancia de aproximadamente:",
+        "respuesta": "7600 años luz.",
+        "incorrecta1": "5000 UA.",
+        "incorrecta2": "20 años luz.",
+        "incorrecta3": "100.000 años luz.\r"
+    },
+    {
+        "categoria": "Eta Carinae",
+        "pregunta": "Esta imagen de la nebulosa Eta Carinae fue capturada por:",
+        "respuesta": "El telescopio espacial James Webb.",
+        "incorrecta1": "La sonda espacial Parker.",
+        "incorrecta2": "El Observatorio Astronómico UTN San Francisco.",
+        "incorrecta3": "El telescopio espacial Hubble.\r",
+        "imagen": "https://cdn.esawebb.org/archives/images/publicationjpg/weic2205a.jpg"
+    },
+    {
+        "categoria": "Tarantula",
+        "pregunta": "Esta imagen de la nebulosa Tarántula fue capturada por:",
+        "respuesta": "El telescopio espacial Hubble.",
+        "incorrecta1": "La Estación Espacial Internacional.",
+        "incorrecta2": "El telescopio Pan-STARRS de Hawai.",
+        "incorrecta3": "Telescopio espacial James Webb.\r",
+        "imagen": "https://apod.nasa.gov/apod/image/1602/Tarantula-HST-ESO-M.jpg"
+    },
+    {
+        "categoria": "Tarantula",
+        "pregunta": "Esta imagen de la nebulosa Tarántula fue capturada por:",
+        "respuesta": "El telescopio espacial James Webb.",
+        "incorrecta1": "El telescopio espacial Spitzer.",
+        "incorrecta2": "El Observatorio Astronómico UTN San Francisco.",
+        "incorrecta3": "El telescopio espacial Hubble.\r",
+        "imagen": "https://cdn.esawebb.org/archives/images/publicationjpg/weic2212a.jpg"
+    },
+    {
+        "categoria": "Tarantula",
+        "pregunta": "La nebulosa de la Tarántula también es conocida como:",
+        "respuesta": "NGC 2070",
+        "incorrecta1": "MTD 4523",
+        "incorrecta2": "NYV 8634",
+        "incorrecta3": "MXD 2876\r"
+    },
+    {
+        "categoria": "Tarantula",
+        "pregunta": "La nebulosa de la Tarántula se encuentra en:",
+        "respuesta": "la Gran Nube de Magallanes.",
+        "incorrecta1": "la nebulosa de Orión.",
+        "incorrecta2": "la nebulosa del Cangrejo.",
+        "incorrecta3": "la Pequeña Nube de Magallanes.\r"
+    },
+    {
+        "categoria": "Tarantula",
+        "pregunta": "La nebulosa de la Tarántula es una región de formación de:",
+        "respuesta": "estrellas.",
+        "incorrecta1": "supernovas.",
+        "incorrecta2": "agujeros negros.",
+        "incorrecta3": "sistemas solares.\r"
+    },
+    {
+        "categoria": "Tarantula",
+        "pregunta": "La nebulosa de la Tarántula es una nebulosa de:",
+        "respuesta": "de emisión.",
+        "incorrecta1": "de reflexión.",
+        "incorrecta2": "planetaria.",
+        "incorrecta3": "de absorción.\r"
+    },
+    {
+        "categoria": "Tarantula",
+        "pregunta": "Cerca de la nebulosa de la Tarántula, se observó:",
+        "respuesta": "una supernova.",
+        "incorrecta1": "una conjunción.",
+        "incorrecta2": "un choque de galaxias.",
+        "incorrecta3": "un agujero negro.\r"
+    },
+    {
+        "categoria": "Tarantula",
+        "pregunta": "La detección del infrarrojo del telescopio espacial Webb ha descubierto en la Tarántula:",
+        "respuesta": "miles de estrellas en formación.",
+        "incorrecta1": "exoplanetas.",
+        "incorrecta2": "supernovas.",
+        "incorrecta3": "agujeros negros.\r"
+    },
+    {
+        "categoria": "Tarantula",
+        "pregunta": "El polvo cósmico está formado por:",
+        "respuesta": "elementos químicos.",
+        "incorrecta1": "cuerpos sólidos grandes.",
+        "incorrecta2": "sustancias compuestas.",
+        "incorrecta3": "metales.\r"
+    },
+    {
+        "categoria": "Tarantula",
+        "pregunta": "Los rayos cósmicos son:",
+        "respuesta": "partículas de elevada energía.",
+        "incorrecta1": "radiaciones electromagnéticas.",
+        "incorrecta2": "luz visible.",
+        "incorrecta3": "emisiones de una estrella.\r"
+    },
+    {
+        "categoria": "Tarantula",
+        "pregunta": "Las nebulosas están formadas por:",
+        "respuesta": "polvo cósmico y gases.",
+        "incorrecta1": "únicamente estrellas.",
+        "incorrecta2": "únicamente gases.",
+        "incorrecta3": "únicamente polvo cósmico.\r"
+    },
+    {
+        "categoria": "Tarantula",
+        "pregunta": "Los cúmulos son:",
+        "respuesta": "agrupamiento de estrellas.",
+        "incorrecta1": "galaxias.",
+        "incorrecta2": "sistemas solares.",
+        "incorrecta3": "nebulosas.\r"
+    },
+    {
+        "categoria": "Anillo del Sur",
+        "pregunta": "Esta imagen de la nebulosa del Anillo del Sur fue capturada por:",
+        "respuesta": "El telescopio espacial James Webb.",
+        "incorrecta1": "El telescopio espacial Spitzer.",
+        "incorrecta2": "El telescopio VLT Cerro Paranal.",
+        "incorrecta3": "El telescopio espacial Hubble.\r",
+	"imagen": "https://cdn.esawebb.org/archives/images/publicationjpg/weic2207b.jpg"
+    },
+    {
+        "categoria": "Anillo del Sur",
+        "pregunta": "La nebulosa del Anillo se encuentra en la constelación de:",
+        "respuesta": "Vela.",
+        "incorrecta1": "Escorpio.",
+        "incorrecta2": "Carina.",
+        "incorrecta3": "Tauro.\r"
+    },
+    {
+        "categoria": "Anillo del Sur",
+        "pregunta": "La nebulosa del Anillo se encuentra a una distancia de:",
+        "respuesta": "2000 años luz.",
+        "incorrecta1": "10 años luz.",
+        "incorrecta2": "1100 años luz.",
+        "incorrecta3": "7.2 millones de años luz.\r"
+    },
+    {
+        "categoria": "Anillo del Sur",
+        "pregunta": "¿A qué velocidad se expanden los gases de la Nebulosa Del Anillo del Sur?",
+        "respuesta": "15 km/s",
+        "incorrecta1": "15 km/h",
+        "incorrecta2": "10000 km/s",
+        "incorrecta3": "68000 km/h\r"
+    },
+    {
+        "categoria": "Anillo del Sur",
+        "pregunta": "¿Qué ha revelado el telescopio James Webb de la Nebulosa del Anillo del Sur?",
+        "respuesta": "La capa de polvo alrededor de la segunda estrella.",
+        "incorrecta1": "Una estrella enana marrón.",
+        "incorrecta2": "Un agujero negro.",
+        "incorrecta3": "Un exoplaneta.\r"
+    },
+    {
+        "categoria": "Anillo del Sur",
+        "pregunta": "La nebulosa del Anillo está catalogada como:",
+        "respuesta": "NGC 3132",
+        "incorrecta1": "M8",
+        "incorrecta2": "NGC 5547",
+        "incorrecta3": "M10\r"
+    },
+    {
+        "categoria": "Anillo del Sur",
+        "pregunta": "Las áreas de un verde azulado en la Nebulosa del Anillo del Sur indican que:",
+        "respuesta": "El gas y el polvo son más densos.",
+        "incorrecta1": "Son Asteroides.",
+        "incorrecta2": "Contiene oxígeno.",
+        "incorrecta3": "Existe vida.\r"
+    },
+    {
+        "categoria": "Anillo del Sur",
+        "pregunta": "¿Qué magnitud aparente tiene la Nebulosa del Anillo del Sur?",
+        "respuesta": "9.87",
+        "incorrecta1": "-1.0",
+        "incorrecta2": "6.0",
+        "incorrecta3": "-7.1\r"
+    },
+    {
+        "categoria": "Anillo del Sur",
+        "pregunta": "El diámetro de la Nebulosa del Anillo del Sur es de:",
+        "respuesta": "Medio año luz.",
+        "incorrecta1": "Cinco años luz.",
+        "incorrecta2": "Dos años luz.",
+        "incorrecta3": "20 UA.\r"
+    },
+    {
+        "categoria": "Anillo del Sur",
+        "pregunta": "La imagen de la Nebulosa del Anillo del Sur capturada por el MIRI del J. Webb está en el espectro  del:",
+        "respuesta": "Infrarrojo medio.",
+        "incorrecta1": "Ultravioleta medio.",
+        "incorrecta2": "Rayos gamma.",
+        "incorrecta3": "Luz visible.\r"
+    },
+    {
+        "categoria": "Jupiter",
+        "pregunta": "Esta imagen del plante Júpiter fue capturada por:",
+        "respuesta": "El telescopio espacial James Webb.",
+        "incorrecta1": "La sonda SOHO.",
+        "incorrecta2": "El Gran Telescopio Canarias.",
+        "incorrecta3": "El telescopio espacial Hubble.\r",
+	"imagen": "https://blogs.nasa.gov/webb/wp-content/uploads/sites/326/2022/08/JWST_2022-07-27_Jupiter.png",
+	"objectFit": "contain"
+    },
+    {
+        "categoria": "Jupiter",
+        "pregunta": "El planeta Júpiter del Sistema Solar es:",
+        "respuesta": "El de mayor tamaño.",
+        "incorrecta1": "El cuarto planeta.",
+        "incorrecta2": "El de menor tamaño.",
+        "incorrecta3": "Un planeta rocoso.\r"
+    },
+    {
+        "categoria": "Jupiter",
+        "pregunta": "El planeta Júpiter es:",
+        "respuesta": "El objeto más brillante del cielo después del Sol, la Luna y Venus.",
+        "incorrecta1": "El planeta Marte es más brillante que Júpiter.",
+        "incorrecta2": "El brillo de Júpiter es emitido por el planeta.",
+        "incorrecta3": "Un planeta rocoso.\r"
+    },
+    {
+        "categoria": "Jupiter",
+        "pregunta": "El planeta Júpiter:",
+        "respuesta": "No tiene estaciones.",
+        "incorrecta1": "Tiene la mayor cantidad de satélites.",
+        "incorrecta2": "El eje de rotación está muy inclinado.",
+        "incorrecta3": "Es el octavo planeta.\r"
+    },
+    {
+        "categoria": "Jupiter",
+        "pregunta": "El planeta Júpiter:",
+        "respuesta": "Los anillos fueron detectados por la sonda Voyager 1.",
+        "incorrecta1": "Los anillos se ven a simple vista.",
+        "incorrecta2": "Los anillos son muy gruesos.",
+        "incorrecta3": "No tiene un sistema de anillos.\r"
+    },
+    {
+        "categoria": "Jupiter",
+        "pregunta": "El planeta Júpiter:",
+        "respuesta": "Hidrógeno, helio, amoníaco, agua, metano.",
+        "incorrecta1": "Dióxido de carbono.",
+        "incorrecta2": "Oxígeno y ozono.",
+        "incorrecta3": "No tiene atmósfera.\r"
+    },
+    {
+        "categoria": "Jupiter",
+        "pregunta": "El planeta Júpiter:",
+        "respuesta": "No tiene una superficie sólida.",
+        "incorrecta1": "Tiene agua líquida en su superficie.",
+        "incorrecta2": "Está cubierto de metano liquido.",
+        "incorrecta3": "Es el noveno planeta del Sistema Solar.\r"
+    },
+    {
+        "categoria": "Jupiter",
+        "pregunta": "El planeta Júpiter:",
+        "respuesta": "Tiene un fuerte campo magnético.",
+        "incorrecta1": "No tiene un campo magnético.",
+        "incorrecta2": "Es un planeta rocoso.",
+        "incorrecta3": "Es el de menor tamaño.\r"
+    },
+    {
+        "categoria": "Jupiter",
+        "pregunta": "¿Cuál de las siguientes afirmaciones de los satélites de Júpiter es correcta?",
+        "respuesta": "Los cuatro más grandes se llaman galileanos.",
+        "incorrecta1": "Tiene únicamente 10 satélites.",
+        "incorrecta2": "Los satélites son gaseosos.",
+        "incorrecta3": "Algunos satélites son artificiales.\r"
+    },
+    {
+        "categoria": "Jupiter",
+        "pregunta": "En las imágenes del planeta Júpiter obtenidas con el telescopio J.Webb:",
+        "respuesta": "Se observa la Gran Mancha Roja de color blanco.",
+        "incorrecta1": "No se observa la Gran Mancha Roja.",
+        "incorrecta2": "La Gran Mancha Roja se observa de color negro.",
+        "incorrecta3": "Se observa la Gran Mancha Roja de color verde.\r"
+    },
+    {
+        "categoria": "Neptuno",
+        "pregunta": "Esta imagen del planeta Neptuno fue capturada por:",
+        "respuesta": "El telescopio espacial James Webb.",
+        "incorrecta1": "La sonda espacial Voyager.",
+        "incorrecta2": "El Gran Telescopio Canarias.",
+        "incorrecta3": "El telescopio espacial Hubble.\r",
+	"imagen": "https://cdn.esawebb.org/archives/images/screen/weic2214a.jpg"
+    },
+    {
+        "categoria": "Neptuno",
+        "pregunta": "Esta imagen del planeta Neptuno fue capturada por:",
+        "respuesta": "El telescopio espacial Hubble.",
+        "incorrecta1": "El telescopio espacial James Webb.",
+        "incorrecta2": "La sonda espacial Cassini.",
+        "incorrecta3": "El Gran Telescopio Canarias.\r",
+	"imagen": "https://www.lanasa.net/application/files/1816/0812/1364/news_Neptuno161220.jpg",
+	"objectFit": "contain"
+    },
+    {
+        "categoria": "Neptuno",
+        "pregunta": "En la imagen de Neptuno capturada por el telescopio James Webb:",
+        "respuesta": "El objeto más brillante es Tritón.",
+        "incorrecta1": "Hay un OVNI.",
+        "incorrecta2": "Esta el planeta Urano.",
+        "incorrecta3": "Es la estrella Alfa Centauro.\r",
+	"imagen": "https://cdn.esawebb.org/archives/images/screen/weic2214c.jpg",
+	"objectFit": "contain"
+    },
+    {
+        "categoria": "Neptuno",
+        "pregunta": "Neptuno es:",
+        "respuesta": "El último planeta del Sistema Solar.",
+        "incorrecta1": "El séptimo planeta del Sistema Solar.",
+        "incorrecta2": "Un planeta enano.",
+        "incorrecta3": "Un planeta rocoso.\r"
+    },
+    {
+        "categoria": "Neptuno",
+        "pregunta": "El planeta Neptuno es:",
+        "respuesta": "Fue descubierto por un cálculo matemático.",
+        "incorrecta1": "Visible a simple vista.",
+        "incorrecta2": "Fue descubierto con un telescopio.",
+        "incorrecta3": "Es un planeta rocoso.\r"
+    },
+    {
+        "categoria": "Neptuno",
+        "pregunta": "Neptuno es:",
+        "respuesta": "Un planeta gaseoso.",
+        "incorrecta1": "Un planeta enano.",
+        "incorrecta2": "Un planeta rocoso.",
+        "incorrecta3": "Un asteroide.\r"
+    },
+    {
+        "categoria": "Neptuno",
+        "pregunta": "El planeta Neptuno:",
+        "respuesta": "Tiene estaciones (como la Tierra).",
+        "incorrecta1": "No tiene estaciones.",
+        "incorrecta2": "Es un asteroide.",
+        "incorrecta3": "El sexto planeta del Sistema Solar.\r"
+    },
+    {
+        "categoria": "Neptuno",
+        "pregunta": "El planeta Neptuno:",
+        "respuesta": "Tiene un sistema de anillos.",
+        "incorrecta1": "No tiene satélites.",
+        "incorrecta2": "No tiene estaciones.",
+        "incorrecta3": "Tiene superficie sólida.\r"
+    },
+    {
+        "categoria": "Neptuno",
+        "pregunta": "El planeta Neptuno:",
+        "respuesta": "Tiene satélites (lunas).",
+        "incorrecta1": "No tiene estaciones.",
+        "incorrecta2": "Es un planeta enano.",
+        "incorrecta3": "Es un exoplaneta.\r"
+    },
+    {
+        "categoria": "Neptuno",
+        "pregunta": "La atmósfera de Neptuno está formada por:",
+        "respuesta": "Hidrogeno, helio y metano.",
+        "incorrecta1": "Agua.",
+        "incorrecta2": "No contiene hidrógeno.",
+        "incorrecta3": "No tiene atmósfera.\r"
+    },
+    {
+        "categoria": "Neptuno",
+        "pregunta": "El planeta Neptuno tiene color azulado por:",
+        "respuesta": "El metano de su atmósfera.",
+        "incorrecta1": "No tiene color.",
+        "incorrecta2": "El agua en su superficie.",
+        "incorrecta3": "El ozono de su atmósfera.\r"
+    },
+    {
+        "categoria": "Neptuno",
+        "pregunta": "El planeta Neptuno fue fotografiado por:",
+        "respuesta": "La sonda Voyager.",
+        "incorrecta1": "No fue fotografiado.",
+        "incorrecta2": "El satélite Sputnik.",
+        "incorrecta3": "La nave espacial Apolo.\r"
+    },
+    {
+        "categoria": "Neptuno",
+        "pregunta": "El satélite Tritón de Neptuno tiene:",
+        "respuesta": "Una órbita retrograda inusual.",
+        "incorrecta1": "Una órbita normal.",
+        "incorrecta2": "Una órbita elíptica.",
+        "incorrecta3": "Una órbita parabólica.\r"
+    },
+    {
+        "categoria": "SMACS",
+        "pregunta": "Esta imagen del cúmulo de galaxias SMACS 0723 fue capturada por:",
+        "respuesta": "El telescopio espacial James Webb.",
+        "incorrecta1": "La sonda espacial Voyager.",
+        "incorrecta2": "El Gran Telescopio Canarias.",
+        "incorrecta3": "El ALMA en Atacama.\r",
+	"imagen": "https://cdn.esawebb.org/archives/images/publicationjpg/weic2209a.jpg",
+	"objectFit": "contain"
+    },
+    {
+        "categoria": "SMACS",
+        "pregunta": "La distancia a la que se encuentra el Cúmulo de galaxias SMACS 0723 es:",
+        "respuesta": "5.120 millones de años luz.",
+        "incorrecta1": "200 años luz.",
+        "incorrecta2": "1020 años luz.",
+        "incorrecta3": "14000 UA.\r"
+    },
+    {
+        "categoria": "SMACS",
+        "pregunta": "El Cúmulo de galaxias SMACS 0723 es visitado por Hubble y el James Webb:",
+        "respuesta": "En busca del pasado profundo del Universo.",
+        "incorrecta1": "Para hacer astrofotografía.",
+        "incorrecta2": "Buscando vida extraterrestre.",
+        "incorrecta3": "Para encontrar exoplanetas.\r"
+    },
+    {
+        "categoria": "SMACS",
+        "pregunta": "El instrumento NIRSpec del James Webb es tan sensible que puede observar:",
+        "respuesta": "La luz de galaxias que existieron en el universo primitivo.",
+        "incorrecta1": "El Big Bang.",
+        "incorrecta2": "Agujero negro.",
+        "incorrecta3": "Estrella de neutrones.\r"
+    },
+    {
+        "categoria": "SMACS",
+        "pregunta": "Las imágenes del telescopio espacial James Webb logran ver objetos de 13.100 millones de años de antigüedad gracias a:",
+        "respuesta": "Efecto lente gravitacional.",
+        "incorrecta1": "La forma del espejo.",
+        "incorrecta2": "La órbita del telescopio.",
+        "incorrecta3": "Los agujeros negros.\r"
+    },
+    {
+        "categoria": "SMACS",
+        "pregunta": "La propiedad del gas de una galaxia es revelada por:",
+        "respuesta": "El espectro de su luz.",
+        "incorrecta1": "La distancia a que se encuentra.",
+        "incorrecta2": "Sus ondas de radio.",
+        "incorrecta3": "Los rayos cósmicos emitidos.\r"
+    },
+    {
+        "categoria": "SMACS",
+        "pregunta": "La masa combinada de las galaxias y la materia oscura actúa como:",
+        "respuesta": "Telescopio cósmico.",
+        "incorrecta1": "Portal interdimensional.",
+        "incorrecta2": "Agujero de gusano.",
+        "incorrecta3": "Radiotelescopio gigante.\r"
+    },
+    {
+        "categoria": "SMACS",
+        "pregunta": "El Cúmulo de galaxias SMACS 0723 está ubicado en la constelación:",
+        "respuesta": "Pez Volador.",
+        "incorrecta1": "Crux.",
+        "incorrecta2": "Andrómeda.",
+        "incorrecta3": "Centauro.\r"
+    },
+    {
+        "categoria": "Hubble",
+        "pregunta": "¿En qué año fue lanzado el telescopio espacial Hubble?",
+        "respuesta": "1990",
+        "incorrecta1": "1987",
+        "incorrecta2": "2021",
+        "incorrecta3": "2005\r"
+    },
+    {
+        "categoria": "Hubble",
+        "pregunta": "¿A qué objeto del sistema solar orbita el telescopio espacial Hubble?",
+        "respuesta": "Tierra.",
+        "incorrecta1": "Sol.",
+        "incorrecta2": "Marte.",
+        "incorrecta3": "Luna.\r"
+    },
+    {
+        "categoria": "Hubble",
+        "pregunta": "¿Cuál es la mayor banda de espectro de observación del Hubble?",
+        "respuesta": "Visible.",
+        "incorrecta1": "Infrarrojo.",
+        "incorrecta2": "Ultravioleta.",
+        "incorrecta3": "Rayos X.\r"
+    },
+    {
+        "categoria": "Hubble",
+        "pregunta": "¿Cuántos espejos tiene el telescopio Hubble?",
+        "respuesta": "Dos.",
+        "incorrecta1": "Diez.",
+        "incorrecta2": "Ninguno.",
+        "incorrecta3": "Ventiuno.\r"
+    },
+    {
+        "categoria": "Hubble",
+        "pregunta": "¿Qué longitud tiene el Telescopio Espacial Hubble?",
+        "respuesta": "13.2 m",
+        "incorrecta1": "22.4 m",
+        "incorrecta2": "15 m",
+        "incorrecta3": "8.5 m\r"
+    },
+    {
+        "categoria": "Hubble",
+        "pregunta": "¿A qué teoría aportaron las observaciones del Telescopio Espacial Hubble?",
+        "respuesta": "Teoría Big Bang.",
+        "incorrecta1": "Teoría de las cuerdas.",
+        "incorrecta2": "Teoría evolución especies.",
+        "incorrecta3": "Teoría geocéntrica.\r"
+    },
+    {
+        "categoria": "Hubble",
+        "pregunta": "¿Cuál es la principal fuente de energía del Telescopio Espacial Hubble?",
+        "respuesta": "Energía solar.",
+        "incorrecta1": "Energía eólica.",
+        "incorrecta2": "Energía química.",
+        "incorrecta3": "Energía nuclear.\r"
+    },
+    {
+        "categoria": "Hubble",
+        "pregunta": "¿Cuál es el peso del Telescopio Espacial Hubble?",
+        "respuesta": "11000 kg",
+        "incorrecta1": "5500 kg",
+        "incorrecta2": "100 kg",
+        "incorrecta3": "21578 kg\r"
+    },
+    {
+        "categoria": "Hubble",
+        "pregunta": "¿Cuál es la geometría del espejo primario del el Telescopio Espacial Hubble?",
+        "respuesta": "Cilíndrico.",
+        "incorrecta1": "Cuadrado.",
+        "incorrecta2": "Triangular.",
+        "incorrecta3": "Hexagonal.\r"
+    },
+    {
+        "categoria": "Hubble",
+        "pregunta": "¿Qué fue Hubble a quien se debe el nombre de dicho Telescopio Espacial?",
+        "respuesta": "Un astrónomo.",
+        "incorrecta1": "Un astronauta.",
+        "incorrecta2": "Un ingeniero.",
+        "incorrecta3": "Un medico.\r"
+    },
+    {
+        "categoria": "Spitzer",
+        "pregunta": "¿Cuál era el tamaño del Telescopio Espacial Spitzer?",
+        "respuesta": "0.85 m",
+        "incorrecta1": "1 m",
+        "incorrecta2": "25 m",
+        "incorrecta3": "10 m\r"
+    },
+    {
+        "categoria": "Spitzer",
+        "pregunta": "¿Cuál fue el primer telescopio en observar la atmosfera de un exoplaneta?",
+        "respuesta": "Telescopio espacial Spitzer.",
+        "incorrecta1": "Telescopio espacial Hubble.",
+        "incorrecta2": "Telescopio espacial James Webb.",
+        "incorrecta3": "El Gran Telescopio terrestre de Canarias.\r"
+    },
+    {
+        "categoria": "Spitzer",
+        "pregunta": "¿Qué telescopio detectó 10 planetas similares a la tierra orbitando en una misma estrella?",
+        "respuesta": "Telescopio espacial Spitzer.",
+        "incorrecta1": "Telescopio espacial Hubble.",
+        "incorrecta2": "Telescopio espacial James Webb.",
+        "incorrecta3": "Telescopios Terrestres.\r"
+    },
+    {
+        "categoria": "Spitzer",
+        "pregunta": "¿Por qué estaba limitada la vida útil del telescopio Espacial Spitzer?",
+        "respuesta": "Evaporación del helio líquido de refrigeración.",
+        "incorrecta1": "Oxidación de materiales que lo componían.",
+        "incorrecta2": "Deterioro de los espejos.",
+        "incorrecta3": "Debilitamiento de la fuente de energía.\r"
+    },
+    {
+        "categoria": "Spitzer",
+        "pregunta": "¿En qué espectro de emisión observaba el Telescopio Espacial Spitzer?",
+        "respuesta": "Infrarrojo.",
+        "incorrecta1": "Ultravioleta.",
+        "incorrecta2": "Visible.",
+        "incorrecta3": "Rayos gamma.\r"
+    },
+    {
+        "categoria": "Spitzer",
+        "pregunta": "¿Qué tipo de telescopio era el Spitzer?",
+        "respuesta": "Reflector.",
+        "incorrecta1": "Refractor.",
+        "incorrecta2": "Catadióptrico.",
+        "incorrecta3": "Óptico.\r"
+    },
+    {
+        "categoria": "Spitzer",
+        "pregunta": "¿Cuál fue el reto tecnológico en la construcción del Telescopio Spitzer?",
+        "respuesta": "La realización del espejo principal.",
+        "incorrecta1": "El desarrollo de la fuente de energía.",
+        "incorrecta2": "El tamaño del equipo.",
+        "incorrecta3": "El lanzamiento del telescopio.\r"
+    },
+    {
+        "categoria": "Spitzer",
+        "pregunta": "¿A qué objeto del sistema solar orbitaba el telescopio Espacial Spitzer?",
+        "respuesta": "Sol.",
+        "incorrecta1": "Tierra.",
+        "incorrecta2": "Luna.",
+        "incorrecta3": "Ceres.\r"
+    },
+    {
+        "categoria": "Spitzer",
+        "pregunta": "¿En qué año dejó de funcionar el Telescopio Espacial Spitzer?",
+        "respuesta": "30 de enero de 2020",
+        "incorrecta1": "3 octubre de 2022",
+        "incorrecta2": "15 agosto del 2015",
+        "incorrecta3": "21 de marzo de 2020\r"
+    },
+    {
+        "categoria": "Spitzer",
+        "pregunta": "¿En qué año fue lanzado el Telescopio Espacial Spitzer?",
+        "respuesta": "2003",
+        "incorrecta1": "1999",
+        "incorrecta2": "2021",
+        "incorrecta3": "2008\r"
+    },
+    {
+        "categoria": "Espejos",
+        "pregunta": "¿De qué material es el espejo principal del telescopio?",
+        "respuesta": "Berilio y oro.",
+        "incorrecta1": "Argón y oro.",
+        "incorrecta2": "Hierro y oro.",
+        "incorrecta3": "Litio y mercurio.\r"
+    },
+    {
+        "categoria": "Espejos",
+        "pregunta": "El espejo principal del telescopio espacial James Webb tiene un diámetro de:",
+        "respuesta": "6.5 metros.",
+        "incorrecta1": "15.3 metros.",
+        "incorrecta2": "3.8 metros.",
+        "incorrecta3": "100 metros.\r"
+    },
+    {
+        "categoria": "Espejos",
+        "pregunta": "¿De qué forma son los segmentos del espejo del telescopio espacial James Webb?",
+        "respuesta": "Hexagonal.",
+        "incorrecta1": "Circular.",
+        "incorrecta2": "Cuadrada.",
+        "incorrecta3": "Triangular.\r"
+    },
+    {
+        "categoria": "Espejos",
+        "pregunta": "La función de capa de oro en el espejo del telescopio J. Webb es:",
+        "respuesta": "Mejorar la reflexión de la luz infrarrojo.",
+        "incorrecta1": "Disminuir el peso.",
+        "incorrecta2": "Refractar la luz infrarroja.",
+        "incorrecta3": "Aumentar la conductividad eléctrica.\r"
+    },
+    {
+        "categoria": "Espejos",
+        "pregunta": "¿Cuántos segmentos tiene el espejo primario del telescopio espacial J.Webb?",
+        "respuesta": "18",
+        "incorrecta1": "20",
+        "incorrecta2": "87",
+        "incorrecta3": "5\r"
+    },
+    {
+        "categoria": "Espejos",
+        "pregunta": "¿En cuántos puntales se apoya el espejo secundario del telescopio espacial J.Webb?",
+        "respuesta": "3",
+        "incorrecta1": "6",
+        "incorrecta2": "9",
+        "incorrecta3": "12\r"
+    },
+    {
+        "categoria": "Espejos",
+        "pregunta": "¿Qué cantidad de oro recubre cada espejo del telescopio J.Webb?",
+        "respuesta": "0.12 onzas.",
+        "incorrecta1": "1 onza.",
+        "incorrecta2": "0.05 onzas.",
+        "incorrecta3": "7 onzas.\r"
+    },
+    {
+        "categoria": "Espejos",
+        "pregunta": "¿De qué diseño óptico son los 3 espejos del telescopio J. Webb?",
+        "respuesta": "Anastigmático.",
+        "incorrecta1": "Cóncavo.",
+        "incorrecta2": "Convexo.",
+        "incorrecta3": "Parabólico.\r"
+    },
+    {
+        "categoria": "Espejos",
+        "pregunta": "¿Por qué los segmentos del espejo del telescopio J. Webb son hexagonales?",
+        "respuesta": "Evitar huecos entre los segmentos.",
+        "incorrecta1": "Facilitar el armado.",
+        "incorrecta2": "Reducir espacio de transporte.",
+        "incorrecta3": "Obtener imágenes alargadas en una dirección.\r"
+    },
+    {
+        "categoria": "Estacion Espacial",
+        "pregunta": "¿Cuál fue el primer módulo mandado de la ISS?",
+        "respuesta": "Zarya.",
+        "incorrecta1": "Unity.",
+        "incorrecta2": "Array.",
+        "incorrecta3": "Zvezda.\r"
+    },
+    {
+        "categoria": "Estacion Espacial",
+        "pregunta": "¿Cuántas vueltas por día da la ISS alrededor de la tierra?",
+        "respuesta": "16",
+        "incorrecta1": "23",
+        "incorrecta2": "1",
+        "incorrecta3": "100\r"
+    },
+    {
+        "categoria": "Estacion Espacial",
+        "pregunta": "¿Cuál es la fuente de energía de la ISS (Estación Espacial Internacional)?",
+        "respuesta": "Energía solar.",
+        "incorrecta1": "Energía eólica.",
+        "incorrecta2": "Energía nuclear.",
+        "incorrecta3": "Energía mecánica.\r"
+    },
+    {
+        "categoria": "Estacion Espacial",
+        "pregunta": "¿Cuál es el peso de Estación Espacial Internacional?",
+        "respuesta": "420000 kg",
+        "incorrecta1": "100000 kg",
+        "incorrecta2": "350000 kg",
+        "incorrecta3": "700000 kg\r"
+    },
+    {
+        "categoria": "Estacion Espacial",
+        "pregunta": "¿Hasta cuántas personas pueden vivir en la Estación Espacial Internacional?",
+        "respuesta": "6",
+        "incorrecta1": "3",
+        "incorrecta2": "10",
+        "incorrecta3": "1\r"
+    },
+    {
+        "categoria": "Estacion Espacial",
+        "pregunta": "La estación ISS tarda en orbitar a la tierra:",
+        "respuesta": "90 minutos.",
+        "incorrecta1": "24 horas.",
+        "incorrecta2": "10 minutos.",
+        "incorrecta3": "3 horas.\r"
+    },
+    {
+        "categoria": "Estacion Espacial",
+        "pregunta": "¿En qué año se puso en orbita el primer módulo de la ISS?",
+        "respuesta": "1998",
+        "incorrecta1": "1999",
+        "incorrecta2": "1997",
+        "incorrecta3": "2000\r"
+    },
+    {
+        "categoria": "Estacion Espacial",
+        "pregunta": "¿De qué material es el brazo principal (Manipulador Remoto) de la Estación Espacial Internacional?",
+        "respuesta": "Fibra de carbono y aluminio.",
+        "incorrecta1": "Fibra de vidrio y aluminio.",
+        "incorrecta2": "Fibra de carbono y cobre.",
+        "incorrecta3": "Fibra de vidrio y cobre.\r"
+    },
+    {
+        "categoria": "Estacion Espacial",
+        "pregunta": "¿A qué velocidad viaja la Estación Espacial Internacional?",
+        "respuesta": "27600 km/h",
+        "incorrecta1": "25000 km/s",
+        "incorrecta2": "300 km/s",
+        "incorrecta3": "5879 km/s\r"
+    },
+    {
+        "categoria": "Estacion Espacial",
+        "pregunta": "La falta de gravedad repercute en el cuerpo del tripulante de la ISS, para evitar esto debe realizar una sección diaria de ejercicio físico de:",
+        "respuesta": "2 horas.",
+        "incorrecta1": "45 minutos.",
+        "incorrecta2": "1 hora.",
+        "incorrecta3": "30 minutos.\r"
+    },
+    {
+        "categoria": "ISIM",
+        "pregunta": "El módulo de instrumentos científicos integrados (ISIM) es un componente del:",
+        "respuesta": "Telescopio espacial J. Webb.",
+        "incorrecta1": "Telescopio espacial Hubble.",
+        "incorrecta2": "Estación Espacial Internacional.",
+        "incorrecta3": "Voyager 1.\r"
+    },
+    {
+        "categoria": "ISIM",
+        "pregunta": "ISIM el corazón del J. Webb y alberga:",
+        "respuesta": "Cuatro instrumentos científicos y el sensor de guía fina.",
+        "incorrecta1": "Sistema de navegación.",
+        "incorrecta2": "La propulsión.",
+        "incorrecta3": "Computadoras.\r"
+    },
+    {
+        "categoria": "ISIM",
+        "pregunta": "ISIM del J. Webb tiene una masa de:",
+        "respuesta": "1400 kg",
+        "incorrecta1": "120 Kg",
+        "incorrecta2": "160 g",
+        "incorrecta3": "10 tn\r"
+    },
+    {
+        "categoria": "ISIM",
+        "pregunta": "En ISIM del telescopio J. Webb se encuentra:",
+        "respuesta": "Cámara de infrarrojo cercano.",
+        "incorrecta1": "Espejos.",
+        "incorrecta2": "Computadoras.",
+        "incorrecta3": "Paneles solares.\r"
+    },
+    {
+        "categoria": "ISIM",
+        "pregunta": "El instrumento de cámara infrarroja del telescopio J. Webb es utilizado para:",
+        "respuesta": "Ajustar la alineación de los segmentos del espejo principal.",
+        "incorrecta1": "Posicionar el telescopio.",
+        "incorrecta2": "Realizar fotografía en el espectro visible.",
+        "incorrecta3": "Alinear el telescopio con el Sol.\r"
+    },
+    {
+        "categoria": "ISIM",
+        "pregunta": "La electrónica principal de cada uno de los instrumentos del ISIM está alojada en una caja:",
+        "respuesta": "Envuelta térmicamente.",
+        "incorrecta1": "Construida en oro.",
+        "incorrecta2": "Construida de titanio.",
+        "incorrecta3": "Hecha en acero inoxidable.\r"
+    },
+    {
+        "categoria": "ISIM",
+        "pregunta": "El ISIM está montado en una caja capaz de disipar:",
+        "respuesta": "200 vatios de energía eléctrica.",
+        "incorrecta1": "10 vatios de energía eléctrica.",
+        "incorrecta2": "15000 vatios de energía eléctrica.",
+        "incorrecta3": "500 vatios de energía eléctrica.\r"
+    },
+    {
+        "categoria": "Spacecraft",
+        "pregunta": "¿Cuál es el principal soporte del telescopio espacial J. Webb?",
+        "respuesta": "SpaceCraft bus.",
+        "incorrecta1": "Espejo primario.",
+        "incorrecta2": "Módulo Zarya.",
+        "incorrecta3": "Telescopio Hubble.\r"
+    },
+    {
+        "categoria": "Spacecraft",
+        "pregunta": "¿Cuánto pesa el soporte del telescopio J.Webb?",
+        "respuesta": "350 kg",
+        "incorrecta1": "10 tn",
+        "incorrecta2": "7000 mg",
+        "incorrecta3": "1250 kg\r"
+    },
+    {
+        "categoria": "Spacecraft",
+        "pregunta": "¿Cuál es el principal material que compone al soporte del Telescopio Espacial J.Webb?",
+        "respuesta": "Grafito.",
+        "incorrecta1": "Cobre.",
+        "incorrecta2": "Fibra de carbono.",
+        "incorrecta3": "Borosilicato.\r"
+    },
+    {
+        "categoria": "Spacecraft",
+        "pregunta": "¿Dónde se ensamblo el soporte del Telescopio Espacial J.Webb?",
+        "respuesta": "California.",
+        "incorrecta1": "New York.",
+        "incorrecta2": "Nuevo México.",
+        "incorrecta3": "Cabo Cañaveral.\r"
+    },
+    {
+        "categoria": "Spacecraft",
+        "pregunta": "¿A qué temperatura opera el soporte del Telescopio Espacial J.Webb?",
+        "respuesta": "300 K",
+        "incorrecta1": "270 K",
+        "incorrecta2": "0°C",
+        "incorrecta3": "88°F\r"
+    },
+    {
+        "categoria": "Spacecraft",
+        "pregunta": "¿Cuál es estos es un subsistema de que se encuentra dentro del Spacecraft Bus del telescopio J.Webb?",
+        "respuesta": "Subsistema de Energía Eléctrica.",
+        "incorrecta1": "Subsistema de enfriamiento.",
+        "incorrecta2": "Subsistema de control químico.",
+        "incorrecta3": "Subsistema de navegación.\r"
+    },
+    {
+        "categoria": "Spacecraft",
+        "pregunta": "¿Cuáles son las 2 tareas principales del Spacecraft Bus del Telescopio J.Webb?",
+        "respuesta": "Apuntar el telescopio y mantenimiento.",
+        "incorrecta1": "Informar a la tierra y mantenimiento.",
+        "incorrecta2": "Apuntar el telescopio e informar a la tierra.",
+        "incorrecta3": "Almacenar energía y mantenimiento.\r"
+    },
+    {
+        "categoria": "Spacecraft",
+        "pregunta": "El peso que debe soportar el soporte Spacecraft Bus del Telescopio J.Webb es de:",
+        "respuesta": "6.5 tn",
+        "incorrecta1": "500 kg",
+        "incorrecta2": "3 tn",
+        "incorrecta3": "7 tn\r"
+    },
+    {
+        "categoria": "Sunshield",
+        "pregunta": "Para realizar observaciones en el espectro infrarrojo, el telescopio J. Webb debe mantenerse a una temperatura aproximadamente de:",
+        "respuesta": "-220°C",
+        "incorrecta1": "250 K",
+        "incorrecta2": "30 K",
+        "incorrecta3": "-80°C\r"
+    },
+    {
+        "categoria": "Sunshield",
+        "pregunta": "El telescopio J. Webb utiliza un gran parasol que bloquea la luz y el calor del Sol, la Tierra y la Luna, además de su posición cercana:",
+        "respuesta": "Al punto de Lagrange Tierra-Sol L2.",
+        "incorrecta1": "A Júpiter.",
+        "incorrecta2": "Al punto de Lagrange Sol-Venus.",
+        "incorrecta3": "A Saturno.\r"
+    },
+    {
+        "categoria": "Sunshield",
+        "pregunta": "El kapton es una película de poliamida aplicada en el parasol del J. Webb desarrollada por:",
+        "respuesta": "Dupont.",
+        "incorrecta1": "Goodyear.",
+        "incorrecta2": "Dunlop.",
+        "incorrecta3": "Benvenuto.\r"
+    }
+]
